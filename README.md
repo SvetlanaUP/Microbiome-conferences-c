@@ -48,16 +48,15 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 ## JUNE
 
-*Webinar:* June 30 #EMBARK2021 w/ @KimInSingapore @inanna_nalytica https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/
+*Webinar:* June 30 [#EMBARK2021](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)w/ @KimInSingapore @inanna_nalytica 
 
-*Conference*: June 27-29 [ #IHMC21 International Human Microbiome Consortium Congress 2021](https://ihmc2021.com/)
+*Conference*: June 27-29 [#IHMC21 International Human Microbiome Consortium Congress 2021](https://ihmc2021.com/)
 
 *Tutorial:* June 25 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
 
 *Conference:* June 20-24 [#WorldMicrobeForum](https://www.worldmicrobeforum.org/) @ASMicrobiology @FEMSmicro
 
-*Webinar:* June 19  #BISMiSLive @BISMiS_ Wen-Jun Li ["Mining the Microbial Dark Matter: Challenges and Opportunities"]
-https://www.bismis.net/index6702.html 
+*Webinar:* June 19  #BISMiSLive @BISMiS_ Wen-Jun Li ["Mining the Microbial Dark Matter: Challenges and Opportunities"](https://www.bismis.net/index6702.html)
 
 *Symposium:* June 15 Metaproteomics Symposium @MetaP_Init
 Registration linek [here](https://unilu.webex.com/webappng/sites/unilu/meeting/register/acc5666c491848c7ab24360367c2b400?ticket=4832534b0000000425a469eb6c14204f7ed1cdc5b60986252c89d42acb1bd2a4e64ba81db97f5d9f&timestamp=1622638006217&locale=en_US)
