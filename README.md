@@ -91,5 +91,5 @@ Registration linek [here](https://unilu.webex.com/webappng/sites/unilu/meeting/r
 
 *Webinar*: April 19 (07:30 AM UTC) [The Who, What and How of Microbiome Data](https://twitter.com/microbiome_net/status/1377047991777890307)
 
-*Workshop:*: April 13-14 Free 2-day workshop: [Machine Learning in Genomics: Tools, Resources, Clinical Applications and Ethics](https://www.genome.gov/event-calendar/Machine-Learning-in-Genomics-Tools-Resources-Clinical-Applications-and-Ethics) by NHGRI Genomic Data Science Working Group of the National Advisory Council for Human Genome Research
+*Workshop*: April 13-14 Free 2-day workshop: [Machine Learning in Genomics: Tools, Resources, Clinical Applications and Ethics](https://www.genome.gov/event-calendar/Machine-Learning-in-Genomics-Tools-Resources-Clinical-Applications-and-Ethics) by NHGRI Genomic Data Science Working Group of the National Advisory Council for Human Genome Research
 
