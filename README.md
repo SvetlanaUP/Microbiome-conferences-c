@@ -17,6 +17,8 @@ https://asntech.github.io/postdoc-funding-schemes/
 * postdoc funding opportunities: https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
 
 
+KUDOS to all organizers and speakers of virtual events from 2020 up until now!
+
 
 ## 2021
 
