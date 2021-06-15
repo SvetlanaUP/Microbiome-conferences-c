@@ -51,7 +51,7 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Tutorial*: July 19 [Organizing data analyses in Python using Jug](https://big-data-biology.org/tutorials/2021-07-19-jug/) by Big Data Biology Lab
 
-*Conference*: July 15 World Enterococcus Day;registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
+*Conference*: July 15 World _Enterococcus_ Day; registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
 
 *Conference*: July 12–15 [BiATA2021 Bioinformatics: from Algorithms to Applications](https://biata2021.spbu.ru/)
 
