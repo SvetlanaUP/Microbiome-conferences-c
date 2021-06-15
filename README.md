@@ -14,7 +14,7 @@ https://docs.google.com/spreadsheets/u/1/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpd
 https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0
 https://cbs.umn.edu/academics/departments/eeb/postdocs/opportunities
 https://asntech.github.io/postdoc-funding-schemes/
-* postdoc funding opportunities: https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
+* postdoc funding opportunities ([source](https://twitter.com/deniswirtz/status/1402679957189382149)): https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
 
 
 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
@@ -23,6 +23,11 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 ## 2021
 
 ## Regular
+
+*Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by @ICENICentre
+
+*Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
+* Microtalks takes place at 4PM on the last Wednesday of every month!
 
 *Webinar:* [#EMBARK2021 AMR webinars](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)
 
@@ -36,25 +41,34 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 * a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
 * recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
 
+## SEPTEMBER
+
+*Conference*: 22-24 September [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
+
+## AUGUST
 
 ## JULY
 
-*Tutorial:* July 19 [Organizing data analyses in Python using Jug](https://big-data-biology.org/tutorials/2021-07-19-jug/) by Big Data Biology Lab
+*Tutorial*: July 19 [Organizing data analyses in Python using Jug](https://big-data-biology.org/tutorials/2021-07-19-jug/) by Big Data Biology Lab
+
+*Conference*: July 15 World Enterococcus Day;registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
 
 *Conference*: July 12–15 [BiATA2021 Bioinformatics: from Algorithms to Applications](https://biata2021.spbu.ru/)
 
-*Tutorial:* July 5 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
+*Tutorial*: July 5 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
 
 
 ## JUNE
 
-*Webinar:* June 30 [#EMBARK2021](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)w/ @KimInSingapore @inanna_nalytica 
+*Webinar:* June 30 [#EMBARK2021](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)w/ @KimInSingapore @inanna_nalytica
+
+*Webinar*: June 27 [World Microbiome Day](https://worldmicrobiomeday.com/) by @WMicrobiomeDay
 
 *Conference*: June 27-29 [#IHMC21 International Human Microbiome Consortium Congress 2021](https://ihmc2021.com/)
 
-*Tutorial:* June 25 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
+*Tutorial*: June 25 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
 
-*Conference:* June 20-24 [#WorldMicrobeForum](https://www.worldmicrobeforum.org/) @ASMicrobiology @FEMSmicro
+*Conference*: June 20-24 [#WorldMicrobeForum](https://www.worldmicrobeforum.org/) @ASMicrobiology @FEMSmicro
 
 *Webinar:* June 19  #BISMiSLive @BISMiS_ Wen-Jun Li ["Mining the Microbial Dark Matter: Challenges and Opportunities"](https://www.bismis.net/index6702.html)
 
