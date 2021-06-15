@@ -50,6 +50,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Webinar:* June 30 #EMBARK2021 w/ @KimInSingapore @inanna_nalytica https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/
 
+*Conference*: June 27-29 [ #IHMC21 International Human Microbiome Consortium Congress 2021](https://ihmc2021.com/)
+
 *Tutorial:* June 25 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
 
 *Conference:* June 20-24 [#WorldMicrobeForum](https://www.worldmicrobeforum.org/) @ASMicrobiology @FEMSmicro
