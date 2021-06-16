@@ -47,6 +47,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Conference*: 22-24 September [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
 
+*Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) 
+
 ## AUGUST
 
 ## JULY
