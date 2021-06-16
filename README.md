@@ -51,11 +51,17 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 ## JULY
 
+*Course*: July 27-29 [First steps with R](https://elixir-luxembourg.org/events/2021_07_rbasics) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
+
 *Tutorial*: July 19 [Organizing data analyses in Python using Jug](https://big-data-biology.org/tutorials/2021-07-19-jug/) by Big Data Biology Lab
 
 *Conference*: July 15 World _Enterococcus_ Day; registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
 
+*Course*: July 14-16 [Reproducible analysis workflows with Snakemake and Conda](https://elixir-luxembourg.org/events/2021_07_14_snakemake_anaconda) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
+
 *Conference*: July 12–15 [BiATA2021 Bioinformatics: from Algorithms to Applications](https://biata2021.spbu.ru/)
+
+*Conference*: July 6-9 [Biotechnology for the Built Environment Annual Summit 2021](https://forms.ncl.ac.uk/view.php?id=11342855) by [the Hub for Biotechnology in the Built Environment (HBBE)](https://twitter.com/Bio_Buildings/status/1404704724012703744)
 
 *Tutorial*: July 5 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
 
