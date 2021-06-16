@@ -67,6 +67,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Tutorial*: July 5 [metagenomics processing with NGLess](http://big-data-biology.org/tutorials/2021-06-25-ngless/) by Big Data Biology Lab
 
+*Webinar*: July 1 [How can we make clinically meaningful progress in microbiome-related therapeutics development? Join our panel of experts as they discuss](https://www.eventbrite.co.uk/e/cats-milner-therapeutic-perspectives-series-microbiome-therapeutics-tickets-159628466039) CATS-Milner Therapeutic Perspectives Series: Microbiome therapeutics by Cambridge Academy of Therapeutic Sciences
+
 
 ## JUNE
 
