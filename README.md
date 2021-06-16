@@ -24,7 +24,7 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 ## Regular
 
-*Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by @ICENICentre
+*Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by [@ICENICentre](https://twitter.com/ICENICentre)
 
 *Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
 * Microtalks takes place at 4PM on the last Wednesday of every month!
