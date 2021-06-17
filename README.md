@@ -49,7 +49,7 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Conference*: September 14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) 
 
-## AUGUST
+## AUGUST ⛱️
 
 ## JULY
 
@@ -60,6 +60,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 *Conference*: July 15 World _Enterococcus_ Day; registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
 
 *Course*: July 14-16 [Reproducible analysis workflows with Snakemake and Conda](https://elixir-luxembourg.org/events/2021_07_14_snakemake_anaconda) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
+
+*Course*: July 12-16 [Multi-omics Modeling of Biochemical Pathways Summer School](https://pnnl.cventevents.com/event/f9bb630c-a63f-4a6d-9fa8-3c4f878190b0/summary) by [EMSL](https://twitter.com/EMSLscience)
 
 *Conference*: July 12–15 [BiATA2021 Bioinformatics: from Algorithms to Applications](https://biata2021.spbu.ru/)
 
@@ -73,6 +75,9 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 ## JUNE
 
 *Webinar:* June 30 [#EMBARK2021](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)w/ @KimInSingapore @inanna_nalytica
+
+*Conference:* June 28-29 [Italian Congress of Pharmaceutical Microbiology "The gut microbiota:a key player for human health"](https://sites.google.com/view/simif2021/home)
+Live streaming [here](https://www.youtube.com/channel/UCFAm7vxzil-nKne7H8lro4A)
 
 *Webinar*: June 27 [World Microbiome Day](https://worldmicrobiomeday.com/) by @WMicrobiomeDay
 
