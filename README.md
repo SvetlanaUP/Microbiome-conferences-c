@@ -43,6 +43,10 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 * a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
 * recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
 
+## OCTOBER
+
+*Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
+
 ## SEPTEMBER
 
 *Conference*: September 22-24 [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
