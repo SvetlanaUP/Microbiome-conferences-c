@@ -91,7 +91,9 @@ Live streaming [here](https://www.youtube.com/channel/UCFAm7vxzil-nKne7H8lro4A)
 
 *Conference*: June 20-24 [#WorldMicrobeForum](https://www.worldmicrobeforum.org/) @ASMicrobiology @FEMSmicro
 
-*Webinar:* June 19  #BISMiSLive @BISMiS_ Wen-Jun Li ["Mining the Microbial Dark Matter: Challenges and Opportunities"](https://www.bismis.net/index6702.html)
+*Webinar*: June 19  #BISMiSLive @BISMiS_ Wen-Jun Li ["Mining the Microbial Dark Matter: Challenges and Opportunities"](https://www.bismis.net/index6702.html)
+
+*Webinar*: June 18 [Women in Data Science 2021 – Perspectives in Industry and Academia](https://www.denbi.de/events/1226-women-in-data-science-2021-perspectives-in-industry-and-academia)
 
 *Symposium:* June 15 Metaproteomics Symposium @MetaP_Init
 Registration linek [here](https://unilu.webex.com/webappng/sites/unilu/meeting/register/acc5666c491848c7ab24360367c2b400?ticket=4832534b0000000425a469eb6c14204f7ed1cdc5b60986252c89d42acb1bd2a4e64ba81db97f5d9f&timestamp=1622638006217&locale=en_US)
