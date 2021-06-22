@@ -63,6 +63,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Course*: July 27-29 [First steps with R](https://elixir-luxembourg.org/events/2021_07_rbasics) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
 
+*Conference*: July 20-22 [The International Conference on Group B Strep (ICGBS)](https://www.groupbstrepinternational.org/icgbs2021.html)
+
 *Tutorial*: July 19 [Organizing data analyses in Python using Jug](https://big-data-biology.org/tutorials/2021-07-19-jug/) by Big Data Biology Lab
 
 *Conference*: July 15 World _Enterococcus_ Day; registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
@@ -81,6 +83,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 
 ## JUNE
+
+*Webinar*: LSfM Lecture Series & Workshops 2019-2021, From Single Organisms to Systems Ecology and Evolution: "The Dark Side of Science: Misconduct in Biomedical Research" Dr. Elisabeth Bik; more info [here](https://www.microbiology.lu/_res/uploads/2021/06/LSfM_flyer_OnlineLecture_DrElisabethBik.pdf)
 
 *Webinar:* June 30 [#EMBARK2021](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)w/ @KimInSingapore @inanna_nalytica
 
