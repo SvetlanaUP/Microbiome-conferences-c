@@ -87,7 +87,7 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 *Conference:* June 28-29 [Italian Congress of Pharmaceutical Microbiology "The gut microbiota:a key player for human health"](https://sites.google.com/view/simif2021/home)
 Live streaming [here](https://www.youtube.com/channel/UCFAm7vxzil-nKne7H8lro4A)
 
-*Webinar*: June 27 [World Microbiome Day](https://worldmicrobiomeday.com/) by @WMicrobiomeDay
+*Webinar*: June 27 [World Microbiome Day](https://worldmicrobiomeday.com/) by @WMicrobiomeDay Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSdrcNXtVqiwqtdjS4o1tG5sruqQQzK2ChuyEt4KauiI1dQjsg/viewform)
 
 *Conference*: June 27-29 [#IHMC21 International Human Microbiome Consortium Congress 2021](https://ihmc2021.com/)
 
