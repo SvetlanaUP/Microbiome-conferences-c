@@ -49,9 +49,13 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 ## SEPTEMBER
 
+*Course*: September 29 - October 1 [Snakemake BYOC (bring-your-own-code) workshop](https://www.scilifelab.se/event/snakemake-byoc-bring-your-own-code-workshop-online/) by NBIS – National Bioinformatics Infrastructure Sweden
+
 *Conference*: September 22-24 [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
 
-*Conference*: September 14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) 
+*Conference*: September 14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+*Course*: [Workshop on Plotting in R](https://www.scilifelab.se/event/workshop-on-plotting-in-r-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
 ## AUGUST ⛱️
 
