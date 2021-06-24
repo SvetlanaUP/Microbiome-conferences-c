@@ -4,7 +4,7 @@ This is the list of microbiome related conferences/meetings/workshops etc., most
 
 Updated with recordings when available.
 
-**If you would like to share your microbiome-related event, feel free to let me know.**
+✉️ **If you would like to share your microbiome-related event, feel free to let me know.**
 
 Also, check out: 
 * a collection of computational biology/systematic biology/bioinformatics 
@@ -17,7 +17,7 @@ https://asntech.github.io/postdoc-funding-schemes/
 * postdoc funding opportunities ([source](https://twitter.com/deniswirtz/status/1402679957189382149)): https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
 
 
-KUDOS to all organizers and speakers of virtual events from 2020 up until now!
+👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 
 ## 2021
