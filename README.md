@@ -43,6 +43,8 @@ https://asntech.github.io/postdoc-funding-schemes/
 * a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
 * recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
 
+*Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
+
 ## OCTOBER
 
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
