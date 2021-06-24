@@ -69,6 +69,8 @@ KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 *Conference*: July 15 World _Enterococcus_ Day; registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
 
+*Webinar*: July 15 [#SGBUG](https://twitter.com/hashtag/SGBUG?src=hashtag_click&f=live) Online Seminar: "Sweet flagellins - Not all are equal" Patrick Viollier; Registration [here](https://nus-sg.zoom.us/meeting/register/tZwpceyoqj4uE9T72gIVQ4umNIZNKx4DBUQv)
+
 *Course*: July 14-16 [Reproducible analysis workflows with Snakemake and Conda](https://elixir-luxembourg.org/events/2021_07_14_snakemake_anaconda) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
 
 *Course*: July 12-16 [Multi-omics Modeling of Biochemical Pathways Summer School](https://pnnl.cventevents.com/event/f9bb630c-a63f-4a6d-9fa8-3c4f878190b0/summary) by [EMSL](https://twitter.com/EMSLscience)
