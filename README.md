@@ -88,7 +88,7 @@ https://asntech.github.io/postdoc-funding-schemes/
 
 ## JUNE
 
-*Webinar*: LSfM Lecture Series & Workshops 2019-2021, From Single Organisms to Systems Ecology and Evolution: "The Dark Side of Science: Misconduct in Biomedical Research" Dr. Elisabeth Bik; more info [here](https://www.microbiology.lu/_res/uploads/2021/06/LSfM_flyer_OnlineLecture_DrElisabethBik.pdf)
+*Webinar*: June 30 LSfM Lecture Series & Workshops 2019-2021, From Single Organisms to Systems Ecology and Evolution: "The Dark Side of Science: Misconduct in Biomedical Research" Dr. Elisabeth Bik; more info [here](https://www.microbiology.lu/_res/uploads/2021/06/LSfM_flyer_OnlineLecture_DrElisabethBik.pdf)
 
 *Webinar:* June 30 [#EMBARK2021](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)w/ @KimInSingapore @inanna_nalytica
 
