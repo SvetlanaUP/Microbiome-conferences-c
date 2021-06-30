@@ -29,7 +29,7 @@ https://asntech.github.io/postdoc-funding-schemes/
 *Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
 * Microtalks takes place at 4PM on the last Wednesday of every month!
 
-*Webinar*: [#EMBARK2021 AMR webinars](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/)
+*Webinar*: [#EMBARK2021 AMR webinars](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/). Recordings available [here](https://www.youtube.com/playlist?list=PLoOBfbRnSmL4ENlQtOARm0bVyQ485L6R6)
 
 *Webinar*: [University of Nottingham Sutton Bonington AMR Webinar Series 2021](https://twitter.com/RyanCookAMR/status/1366712828904824835); Webinar [Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fteam%2F19%3A4fa917a7bfa14c5f91b7a7cd30ce8574%40thread.skype%2Fconversations%3FgroupId%3D39dca70b-e968-4621-bb4e-85b9c44f70db%26tenantId%3D67bda7ee-fd80-41ef-ac91-358418290a1e&type=team&deeplinkId=805f7aa8-a9b4-42dc-9eb7-b1a8bbdeb013&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
 
