@@ -24,6 +24,8 @@ https://asntech.github.io/postdoc-funding-schemes/
 
 ## Regular
 
+*Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 *Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by [@ICENICentre](https://twitter.com/ICENICentre)
 
 *Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
