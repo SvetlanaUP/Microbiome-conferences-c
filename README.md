@@ -71,6 +71,8 @@ https://asntech.github.io/postdoc-funding-schemes/
 
 *Tutorial*: July 19 [Organizing data analyses in Python using Jug](https://big-data-biology.org/tutorials/2021-07-19-jug/) by Big Data Biology Lab
 
+*Webinar*: July 17  #BISMiSLive [@BISMiS_](https://twitter.com/BISMiS_/status/1410470474627256320) Aharon Oren ["Naming New Taxa of Prokaryotes in the 21st Century"](https://www.bismis.net/index6702.html)
+
 *Conference*: July 15 World _Enterococcus_ Day; registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfNKlW4aee8ZXAqPmtOUiio5Kq_kfCSgIh1BlP-KMKErng1yw/viewform)
 
 *Webinar*: July 15 [#SGBUG](https://twitter.com/hashtag/SGBUG?src=hashtag_click&f=live) Online Seminar: "Sweet flagellins - Not all are equal" Patrick Viollier; Registration [here](https://nus-sg.zoom.us/meeting/register/tZwpceyoqj4uE9T72gIVQ4umNIZNKx4DBUQv)
