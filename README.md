@@ -79,6 +79,8 @@ https://asntech.github.io/postdoc-funding-schemes/
 
 *Course*: July 14-16 [Reproducible analysis workflows with Snakemake and Conda](https://elixir-luxembourg.org/events/2021_07_14_snakemake_anaconda) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
 
+*Webinar*: July 14 [The Microbiome Revolution – a new era in small animal gastroenterology?](https://www.veterinarywebinars.com/hills/microbiome-july-2021/) by Silke Salavati
+
 *Course*: July 12-16 [Multi-omics Modeling of Biochemical Pathways Summer School](https://pnnl.cventevents.com/event/f9bb630c-a63f-4a6d-9fa8-3c4f878190b0/summary) by [EMSL](https://twitter.com/EMSLscience)
 
 *Conference*: July 12–15 [BiATA2021 Bioinformatics: from Algorithms to Applications](https://biata2021.spbu.ru/)
