@@ -51,6 +51,8 @@ https://asntech.github.io/postdoc-funding-schemes/
 
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
 
+*Conference*: October 13-15 [Microbiome Interactions in Health and Disease #MIHD21](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-virtual-conference-20211013/) Wellcome Genome Campus, UK
+
 ## SEPTEMBER
 
 *Course*: September 29 - October 1 [Snakemake BYOC (bring-your-own-code) workshop](https://www.scilifelab.se/event/snakemake-byoc-bring-your-own-code-workshop-online/) by NBIS – National Bioinformatics Infrastructure Sweden
