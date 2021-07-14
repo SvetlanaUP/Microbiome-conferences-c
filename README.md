@@ -77,7 +77,7 @@ https://asntech.github.io/postdoc-funding-schemes/
 
 *Webinar*: July 15 [#SGBUG](https://twitter.com/hashtag/SGBUG?src=hashtag_click&f=live) Online Seminar: "Sweet flagellins - Not all are equal" Patrick Viollier; Registration [here](https://nus-sg.zoom.us/meeting/register/tZwpceyoqj4uE9T72gIVQ4umNIZNKx4DBUQv)
 
-*Course*: July 14-16 [Reproducible analysis workflows with Snakemake and Conda](https://elixir-luxembourg.org/events/2021_07_14_snakemake_anaconda) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
+*Course*: July 14-16 [Reproducible analysis workflows with Snakemake and Conda](https://elixir-luxembourg.org/events/2021_07_14_snakemake_anaconda) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu); [course material](https://r3.pages.uni.lu/school/snakemake-tutorial/)
 
 *Webinar*: July 14 [The Microbiome Revolution – a new era in small animal gastroenterology?](https://www.veterinarywebinars.com/hills/microbiome-july-2021/) by Silke Salavati
 
