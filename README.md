@@ -7,11 +7,11 @@ Updated with recordings when available.
 ✉️ **If you would like to share your microbiome-related event, feel free to let me know.**
 
 Also, check out: 
-* a collection of computational biology/systematic biology/bioinformatics 
-conferences/meetings/workshops by @riyuebao and @sk-sahu: https://github.com/riyuebao/virtual-conferences-workshops
+* a collection of [computational biology/systematic biology/bioinformatics 
+conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-workshops) by @riyuebao and @sk-sahu
 * databases for finding independent biology/ecological postdoctoral fellowships ([source](https://twitter.com/eastonrwhite/status/1375068267916767232)):
 [DB1](https://docs.google.com/spreadsheets/u/1/d/1J2M_tQgoqV4ivpfEClh9qs9f2KQN2O1G3Jpda2aoHfQ/htmlview), [DB2](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0), [DB3](https://cbs.umn.edu/academics/departments/eeb/postdocs/opportunities), [DB4](https://asntech.github.io/postdoc-funding-schemes/)
-* postdoc funding opportunities ([source](https://twitter.com/deniswirtz/status/1402679957189382149)): https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/
+* postdoc funding opportunities ([source](https://twitter.com/deniswirtz/status/1402679957189382149)): [here](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/)
 * [PhD tips – How to ask a question after a seminar](http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar) by [Elisa Granato](https://twitter.com/Prokaryota)
 * and I wrote about the roles of [**Twitter in my academic life**](http://big-data-biology.org/blog/2021/03/29/Twitter_in_an_academic_life/)
 
