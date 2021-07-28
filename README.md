@@ -54,7 +54,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 ## SEPTEMBER
 
-*Conference*: September [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform)
+*Conference*: September [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
 
 *Course*: September 29 - October 1 [Snakemake BYOC (bring-your-own-code) workshop](https://www.scilifelab.se/event/snakemake-byoc-bring-your-own-code-workshop-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
