@@ -48,6 +48,10 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 ## OCTOBER
 
+*Conference:* November 22 [COMBINE Symposium 2021](https://www.combine.org.au/symp/combine-symposium-2021/) 20 September – Abstract submissions close.
+
+## OCTOBER
+
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
 
 *Conference*: October 13-15 [Microbiome Interactions in Health and Disease #MIHD21](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-virtual-conference-20211013/) Wellcome Genome Campus, UK
@@ -65,6 +69,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 *Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
 
 ## AUGUST ⛱️
+
+*Hackathon:* [Petabyte-Scale Sequence Search: Metagenomics Benchmarking Codeathon](https://datascience.nih.gov/news/petabyte-scale-sequence-search-metagenomics-benchmarking-codeathon) **Application deadline August 20; Event Dates and Time: Sept. 27-Oct. 1, 1-5 p.m. EDT.** Organized by the National Institutes of Health (NIH) Office of Data Science Strategy, the National Center for Biotechnology and Information at the National Library of Medicine, and the Department of Energy's (DOE) Office of Biological and Environmental Research.
 
 ## JULY
 
