@@ -68,6 +68,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
 
+*Webinar:* [EMBARK Fall Webinars](https://antimicrobialresistance.eu/category/webinars/) – a webinar series where invited speakers will be presenting their AMR research and be contrasted to [EMBARK members](https://twitter.com/EMBARK_JPIAMR) presenting the work performed in the project.
+
 ## AUGUST ⛱️
 
 *Hackathon:* [Petabyte-Scale Sequence Search: Metagenomics Benchmarking Codeathon](https://datascience.nih.gov/news/petabyte-scale-sequence-search-metagenomics-benchmarking-codeathon) **Application deadline August 20; Event Dates and Time: Sept. 27-Oct. 1, 1-5 p.m. EDT.** Organized by the National Institutes of Health (NIH) Office of Data Science Strategy, the National Center for Biotechnology and Information at the National Library of Medicine, and the Department of Energy's (DOE) Office of Biological and Environmental Research.
