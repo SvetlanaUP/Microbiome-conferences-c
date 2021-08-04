@@ -72,6 +72,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Hackathon:* [Petabyte-Scale Sequence Search: Metagenomics Benchmarking Codeathon](https://datascience.nih.gov/news/petabyte-scale-sequence-search-metagenomics-benchmarking-codeathon) **Application deadline August 20; Event Dates and Time: Sept. 27-Oct. 1, 1-5 p.m. EDT.** Organized by the National Institutes of Health (NIH) Office of Data Science Strategy, the National Center for Biotechnology and Information at the National Library of Medicine, and the Department of Energy's (DOE) Office of Biological and Environmental Research.
 
+*Conference:* August 20 [Global Microbiome Symposium 2021](http://wcmn.weebly.com/registration.html) by [West Coast Microbiome Network](https://twitter.com/ASM_WA_Branch)
+
 ## JULY
 
 *Course*: July 27-29 [First steps with R](https://elixir-luxembourg.org/events/2021_07_rbasics) by [ELIXIR Luxembourg](https://twitter.com/elixir_lu)
