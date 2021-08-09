@@ -58,6 +58,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Webinar:* October 13 [The dark side of science: Misconduct in Biomedical Research](https://www.nrin.nl/component/eventbooking/intern/the-dark-side-of-science-misconduct-in-biomedical-research-lecture-by-dr-elisabeth-bik) by Elisabeth Bik and Boris Barbour – Netherlands Research Integrity Network
 
+*Webinar:* October 13 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_1RGdIvubQpmeJLCi56G-zg): Barry McMahon – "How AMR in wildlife can inform zoonoses research" and Victor Hugo Jarquin Diaz – "AMR spread in rodents"
+
 ## SEPTEMBER
 
 *Course*: September 29 - October 1 [Snakemake BYOC (bring-your-own-code) workshop](https://www.scilifelab.se/event/snakemake-byoc-bring-your-own-code-workshop-online/) by NBIS – National Bioinformatics Infrastructure Sweden
