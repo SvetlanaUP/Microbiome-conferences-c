@@ -78,6 +78,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 ## AUGUST ⛱️
 
+*Course:* Aug 25, 2021 - Aug 26, 2021 | 9:00AM - 12:30PM Asia/Singapore [Introduction to AWS for genomic analysis](https://introduction-genomics-analysis-webinar.splashthat.com/) by Amazon Web Services and the Genome Institute of Singapore
+
 *Hackathon:* [Petabyte-Scale Sequence Search: Metagenomics Benchmarking Codeathon](https://datascience.nih.gov/news/petabyte-scale-sequence-search-metagenomics-benchmarking-codeathon) **Application deadline August 20; Event Dates and Time: Sept. 27-Oct. 1, 1-5 p.m. EDT.** Organized by the National Institutes of Health (NIH) Office of Data Science Strategy, the National Center for Biotechnology and Information at the National Library of Medicine, and the Department of Energy's (DOE) Office of Biological and Environmental Research.
 
 *Conference:* August 20 [Global Microbiome Symposium 2021](http://wcmn.weebly.com/registration.html) by [West Coast Microbiome Network](https://twitter.com/ASM_WA_Branch)
