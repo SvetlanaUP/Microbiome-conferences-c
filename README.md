@@ -46,6 +46,11 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
 
+
+## DECEMBER
+
+*Webinar:* December 6 [Gut Microbiome and Cardiovascular Disease Satellite Symposium](https://www.eventbrite.com/e/gut-microbiome-and-cardiovascular-disease-satellite-symposium-tickets-167023793663) by the High Blood Pressure Council Research Council of Australia and Monash University
+
 ## NOVEMBER
 
 *Conference:* November 22 [COMBINE Symposium 2021](https://www.combine.org.au/symp/combine-symposium-2021/) 20 September – Abstract submissions close.
@@ -59,6 +64,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 *Webinar:* October 13 [The dark side of science: Misconduct in Biomedical Research](https://www.nrin.nl/component/eventbooking/intern/the-dark-side-of-science-misconduct-in-biomedical-research-lecture-by-dr-elisabeth-bik) by Elisabeth Bik and Boris Barbour – Netherlands Research Integrity Network
 
 *Webinar:* October 13 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_1RGdIvubQpmeJLCi56G-zg): Barry McMahon – "How AMR in wildlife can inform zoonoses research" and Victor Hugo Jarquin Diaz – "AMR spread in rodents"
+
+*Hackathon:* October 11-13 [Bioinformatics tools and methods for AMR in bacteria](https://www.climb.ac.uk/amr-hackathon/) by the Public Health Alliance for Genomic Epidemiology (PHA4GE), the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) and the Climb Big Data 
 
 ## SEPTEMBER
 
