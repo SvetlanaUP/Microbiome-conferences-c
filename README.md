@@ -81,6 +81,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Course*: September 6 [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics) by the Wellcome Genome Campus
 
+*Course*: September 6 -7 [Intro to Data, Shell, Git and GitHub, Python](https://zbmed.github.io/2021-09-06-SWC_ZB_MED_and_deNBI-online/)Software Carpentry by ZB MED and de.NBI.
+
 *Webinar:* September 1 and 22 [EMBARK Fall Webinars](https://antimicrobialresistance.eu/category/webinars/) – a webinar series where invited speakers will be presenting their AMR research and be contrasted to [EMBARK members](https://twitter.com/EMBARK_JPIAMR) presenting the work performed in the project.
 
 ## AUGUST ⛱️
