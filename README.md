@@ -83,6 +83,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Course*: September 6 -7 [Intro to Data, Shell, Git and GitHub, Python](https://zbmed.github.io/2021-09-06-SWC_ZB_MED_and_deNBI-online/)Software Carpentry by ZB MED and de.NBI.
 
+*Webinar:* September 2 [Food for health through the gut microbiome: How will we get there?](https://us02web.zoom.us/webinar/register/WN_aMeC3llHSoe5mhWNuKCP_Q) by the Nebraska Food for Health Center
+
 *Webinar:* September 1 and 22 [EMBARK Fall Webinars](https://antimicrobialresistance.eu/category/webinars/) – a webinar series where invited speakers will be presenting their AMR research and be contrasted to [EMBARK members](https://twitter.com/EMBARK_JPIAMR) presenting the work performed in the project.
 
 ## AUGUST ⛱️
