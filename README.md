@@ -24,7 +24,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 ## Regular
 
-*Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by [@ICENICentre](https://twitter.com/ICENICentre)
 
@@ -60,6 +60,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
 
+*Conference*: October 13/15 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 *Conference*: October 13-15 [Microbiome Interactions in Health and Disease #MIHD21](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-virtual-conference-20211013/) Wellcome Genome Campus, UK
 
 *Webinar:* October 13 [The dark side of science: Misconduct in Biomedical Research](https://www.nrin.nl/component/eventbooking/intern/the-dark-side-of-science-misconduct-in-biomedical-research-lecture-by-dr-elisabeth-bik) by Elisabeth Bik and Boris Barbour – Netherlands Research Integrity Network
@@ -74,7 +76,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 22-24 [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
 
-*Conference*: September 14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+*Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Course*: September 8-10 [Workshop on Plotting in R](https://www.scilifelab.se/event/workshop-on-plotting-in-r-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
