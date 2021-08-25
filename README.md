@@ -94,6 +94,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Webinar:* September 1 and 22 [EMBARK Fall Webinars](https://antimicrobialresistance.eu/category/webinars/) – a webinar series where invited speakers will be presenting their AMR research and be contrasted to [EMBARK members](https://twitter.com/EMBARK_JPIAMR) presenting the work performed in the project.
 
+*Webinar:* September 1 [“What is a bioinformatics postdoc?” Zoom Q&A](https://www.abacbs.org/what-is-a-bioinfo-postdoc#!event-register/2021/9/1/abacbs-zoom-q-a-8220-what-is-a-bioinformatics-postdoc-8221) by the Australian Bioinformatics And Computational Biology Society
+
 ## AUGUST ⛱️
 
 *Course:* Aug 25, 2021 - Aug 26, 2021 | 9:00AM - 12:30PM Asia/Singapore [Introduction to AWS for genomic analysis](https://introduction-genomics-analysis-webinar.splashthat.com/) by Amazon Web Services and the Genome Institute of Singapore
