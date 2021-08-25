@@ -78,13 +78,15 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar:* September 15 [Driving New Discovery with Precision Microbiome Analysis & Advanced AI](http://www.global-engage.com/event/new-discovery-with-precision-microbiome-analysis/) by Microba Life Sciences
+
 *Course*: September 8-10 [Workshop on Plotting in R](https://www.scilifelab.se/event/workshop-on-plotting-in-r-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
 *Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
 
 *Course*: September 6 [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics) by the Wellcome Genome Campus
 
-*Course*: September 6 -7 [Intro to Data, Shell, Git and GitHub, Python](https://zbmed.github.io/2021-09-06-SWC_ZB_MED_and_deNBI-online/)Software Carpentry by ZB MED and de.NBI.
+*Course*: September 6 -7 [Intro to Data, Shell, Git and GitHub, Python](https://zbmed.github.io/2021-09-06-SWC_ZB_MED_and_deNBI-online/) Software Carpentry by ZB MED and de.NBI.
 
 *Webinar:* September 2 [Food for health through the gut microbiome: How will we get there?](https://us02web.zoom.us/webinar/register/WN_aMeC3llHSoe5mhWNuKCP_Q) by the Nebraska Food for Health Center
 
