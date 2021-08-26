@@ -98,7 +98,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 22-24 [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
 
-*Conference*: [September 20 Iceman - quo vadis?](https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies/news-events/virtual-symposium-iceman-quo-vadis) Virtual Symposium for the Iceman's 30th anniversary.
+*Conference*: September 20 [Iceman - quo vadis?](https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies/news-events/virtual-symposium-iceman-quo-vadis) Virtual Symposium for the Iceman's 30th anniversary.
 
 *Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
