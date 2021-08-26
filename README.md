@@ -92,9 +92,13 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Course*: September 29 - October 1 [Snakemake BYOC (bring-your-own-code) workshop](https://www.scilifelab.se/event/snakemake-byoc-bring-your-own-code-workshop-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
+*Conference*: September 28-30 [Genomic population structures of microbial pathogens](https://royalsociety.org/science-events-and-lectures/2021/09/microbial-pathogens/)
+
 *Course*: September 27, October 1 and 4 [Metagenome-atlas: Three commands to start analysing your metagenome data](https://www.oulu.fi/uniogs/node/212131) by Silas Kieser
 
 *Conference*: September 22-24 [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
+
+*Conference*: [September 20 Iceman - quo vadis?](https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies/news-events/virtual-symposium-iceman-quo-vadis) Virtual Symposium for the Iceman's 30th anniversary.
 
 *Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
