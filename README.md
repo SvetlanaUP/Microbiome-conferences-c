@@ -120,7 +120,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Course*: September 6 [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics) by the Wellcome Genome Campus
 
-*Course*: September 6 -7 [Intro to Data, Shell, Git and GitHub, Python](https://zbmed.github.io/2021-09-06-SWC_ZB_MED_and_deNBI-online/) Software Carpentry by ZB MED and de.NBI.
+*Course*: September 6-7 [Intro to Data, Shell, Git and GitHub, Python](https://zbmed.github.io/2021-09-06-SWC_ZB_MED_and_deNBI-online/) Software Carpentry by ZB MED and de.NBI
 
 *Webinar:* September 2 [Food for health through the gut microbiome: How will we get there?](https://us02web.zoom.us/webinar/register/WN_aMeC3llHSoe5mhWNuKCP_Q) by the Nebraska Food for Health Center
 
