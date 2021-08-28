@@ -70,6 +70,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 ## OCTOBER
 
+*Webinar*: October 28 [London Microbiome Meeting](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2021-online-tickets-153372175305) by the Dept of Twin Research & Dept of Nutritional Sciences
+
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
 
 *Webinar*: October 21 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
@@ -102,12 +104,18 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Course*: September 15-16 [Data management plan for Beginners](https://www.denbi.de/training/1282-data-management-plan-for-beginners) by the de.NBI 
+
 *Webinar:* September 15 [Driving New Discovery with Precision Microbiome Analysis & Advanced AI](http://www.global-engage.com/event/new-discovery-with-precision-microbiome-analysis/) by Microba Life Sciences
 
 *Course*: September 8-10 [Workshop on Plotting in R](https://www.scilifelab.se/event/workshop-on-plotting-in-r-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
+*Webinar*: September 9 [Computational and Systems Biology Symposium](https://elifesciences.org/events/3e903368/symposium-computational-and-systems-biology) by eLife
+
 *Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
 
+*Webinar*: September 7 [Convergence Of Circadian Rhythms And Gut Microbes: Maintaining The Metronome Of Life](https://iafns.org/event/convergence-of-circadian-rhythms-and-gut-microbes-maintaining-the-metronome-of-life/) by Vanessa Leone, organized by @IAFNS_science
+ 
 *Webinar*: September 7 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
 *Course*: September 6 [Bioinformatics for Biologists: An Introduction to Linux, Bash Scripting, and R](https://www.futurelearn.com/courses/linux-for-bioinformatics) by the Wellcome Genome Campus
