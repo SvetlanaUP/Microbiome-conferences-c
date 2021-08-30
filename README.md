@@ -26,6 +26,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: [Open science coffee ☕](https://github.com/osc-delft/ideas-and-plans/issues/7) by Open Science Community Delft
+
 *Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by [@ICENICentre](https://twitter.com/ICENICentre)
 
 *Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
@@ -127,6 +129,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 *Webinar:* September 1 and 22 [EMBARK Fall Webinars](https://antimicrobialresistance.eu/category/webinars/) – a webinar series where invited speakers will be presenting their AMR research and be contrasted to [EMBARK members](https://twitter.com/EMBARK_JPIAMR) presenting the work performed in the project.
 
 *Webinar:* September 1 [“What is a bioinformatics postdoc?” Zoom Q&A](https://www.abacbs.org/what-is-a-bioinfo-postdoc#!event-register/2021/9/1/abacbs-zoom-q-a-8220-what-is-a-bioinformatics-postdoc-8221) by the Australian Bioinformatics And Computational Biology Society
+
+*Webinar*: September 1 [Open science coffee ☕: Research Code Review](https://osc-delft.github.io/events) by Open Science Community Delft
 
 ## AUGUST ⛱️
 
