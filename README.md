@@ -98,6 +98,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 28-30 [Genomic population structures of microbial pathogens](https://royalsociety.org/science-events-and-lectures/2021/09/microbial-pathogens/)
 
+*Conference*: September 28 [Black in Microbiology week 2021 Research Day](https://linktr.ee/BlackInMicro) by Black Microbiologists Association
+
 *Course*: September 27, October 1 and 4 [Metagenome-atlas: Three commands to start analysing your metagenome data](https://www.oulu.fi/uniogs/node/212131) by Silas Kieser
 
 *Conference*: September 22-24 [The European Culture Collections Organisation XXXIX](https://twitter.com/MIRRI_live/status/1404416402681962501) by [MIRRI](https://ismirri21.mirri.org/)
