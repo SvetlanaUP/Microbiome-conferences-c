@@ -90,6 +90,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Webinar*: October 5 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
+*Course*: October 4-8 [2nd de.NBI Summer School 2021 - Microbial Community Analysis](https://www.denbi.de/training/1269-de-nbi-summer-school-2021-part-2-microbial-community-analysis) by de.NBI
+
 ## SEPTEMBER
 
 *Webinar*: September 30 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
