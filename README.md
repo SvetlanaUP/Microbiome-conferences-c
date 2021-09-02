@@ -82,6 +82,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: October 13-15 [Microbiome Interactions in Health and Disease #MIHD21](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-virtual-conference-20211013/) Wellcome Genome Campus, UK
 
+*Course+Conference*: October 13-15 [2021 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2021/) by Institute for Systems Biology
+
 *Webinar:* October 13 [The dark side of science: Misconduct in Biomedical Research](https://www.nrin.nl/component/eventbooking/intern/the-dark-side-of-science-misconduct-in-biomedical-research-lecture-by-dr-elisabeth-bik) by Elisabeth Bik and Boris Barbour – Netherlands Research Integrity Network
 
 *Webinar:* October 13 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_1RGdIvubQpmeJLCi56G-zg): Barry McMahon – "How AMR in wildlife can inform zoonoses research" and Victor Hugo Jarquin Diaz – "AMR spread in rodents"
