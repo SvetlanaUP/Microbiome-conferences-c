@@ -110,11 +110,13 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 20 [Iceman - quo vadis?](https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies/news-events/virtual-symposium-iceman-quo-vadis) Virtual Symposium for the Iceman's 30th anniversary.
 
-*Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+*Webinar*: September 16-17 [International Microorganism Day](https://www.internationalmicroorganismday.org/programme-2021) a 24-hour live stream of microorganism-themed learning & activities
 
 *Course*: September 15-16 [Data management plan for Beginners](https://www.denbi.de/training/1282-data-management-plan-for-beginners) by the de.NBI 
 
 *Webinar:* September 15 [Driving New Discovery with Precision Microbiome Analysis & Advanced AI](http://www.global-engage.com/event/new-discovery-with-precision-microbiome-analysis/) by Microba Life Sciences
+
+*Conference*: September 14/16 (Atlantic/Pacific) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Course*: September 8-10 [Workshop on Plotting in R](https://www.scilifelab.se/event/workshop-on-plotting-in-r-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
