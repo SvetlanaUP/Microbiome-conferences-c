@@ -110,6 +110,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Conference*: September 20 [Iceman - quo vadis?](https://www.eurac.edu/en/institutes-centers/institute-for-mummy-studies/news-events/virtual-symposium-iceman-quo-vadis) Virtual Symposium for the Iceman's 30th anniversary.
 
+*Conference*: September 19-21 [Small Proteins in Prokaryotes, an Unexplored World” (SPP 2002](https://spp2002-conference.com/) by the Deutsche Forschungsgemeinschaft
+
 *Webinar*: September 18 [Marike Palmer: Microbial species concepts - the status quo in the -omics era](https://us02web.zoom.us/webinar/register/WN_bqnWh41pSeWG6sBViZ1XQA) by BISMiS
 
 *Webinar*: September 16-17 [International Microorganism Day](https://www.internationalmicroorganismday.org/programme-2021) a 24-hour live stream of microorganism-themed learning & activities
