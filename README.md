@@ -142,7 +142,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Webinar:* September 1 [“What is a bioinformatics postdoc?” Zoom Q&A](https://www.abacbs.org/what-is-a-bioinfo-postdoc#!event-register/2021/9/1/abacbs-zoom-q-a-8220-what-is-a-bioinformatics-postdoc-8221) by the Australian Bioinformatics And Computational Biology Society
 
-*Webinar*: September 1 [Open science coffee ☕: Research Code Review](https://osc-delft.github.io/events) by Open Science Community Delft
+*Webinar*: September 1 [Open science coffee ☕: Research Code Review](https://osc-delft.github.io/events) by Open Science Community Delft. Recording and summary available [here](https://osc-delft.github.io/posts/2021/09/03/Research-Code-Review/).
 
 ## AUGUST ⛱️
 
