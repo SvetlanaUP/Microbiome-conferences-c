@@ -116,7 +116,9 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Webinar*: September 16-17 [International Microorganism Day](https://www.internationalmicroorganismday.org/programme-2021) a 24-hour live stream of microorganism-themed learning & activities
 
-*Course*: September 15-16 [Data management plan for Beginners](https://www.denbi.de/training/1282-data-management-plan-for-beginners) by the de.NBI 
+*Course*: September 15-16 [Data management plan for Beginners](https://www.denbi.de/training/1282-data-management-plan-for-beginners) by the de.NBI
+
+*Course*: September 15-16 [A day in the life of a bioinformatician 2021](https://www.combine.org.au/intro-to-bioinformatics-2021/#!event-register/2021/9/15/introduction-to-bioinformatics) by COMBINE
 
 *Webinar:* September 15 [Driving New Discovery with Precision Microbiome Analysis & Advanced AI](http://www.global-engage.com/event/new-discovery-with-precision-microbiome-analysis/) by Microba Life Sciences
 
