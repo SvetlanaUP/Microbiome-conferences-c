@@ -78,6 +78,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Webinar*: October 21 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
+*Course*: October 15 [Workshop on Statistical and Machine Learning Techniques for Microbiome Data Analysis](https://www.ml4microbiome.eu/activities-and-events/ml4microbiome-workshop-on-statistical-and-machine-learning-techniques-for-microbiome-data-analysis/) by ML4Microbiome
+
 *Conference*: October 13/15 (Pacific/Atlantic) [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Conference*: October 13-15 [Microbiome Interactions in Health and Disease #MIHD21](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-virtual-conference-20211013/) Wellcome Genome Campus, UK
