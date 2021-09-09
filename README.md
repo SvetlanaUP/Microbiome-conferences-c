@@ -94,6 +94,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 
 *Hackathon:* October 11-13 [Bioinformatics tools and methods for AMR in bacteria](https://www.climb.ac.uk/amr-hackathon/) by the Public Health Alliance for Genomic Epidemiology (PHA4GE), the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) and the Climb Big Data.
 
+*Webinar:* October 11-12 [Workshop on Education in Food Systems Microbiome Related Sciences: Needs for Universities, Industry and Public Health Systems ](https://www.microbiomesupport.eu/coming-up-workshop-on-educational-needs-in-microbiome-sciences/) by MicrobiomeSupport 
+
 *Webinar*: October 5 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
 *Course*: October 4-8 [2nd de.NBI Summer School 2021 - Microbial Community Analysis](https://www.denbi.de/training/1269-de-nbi-summer-school-2021-part-2-microbial-community-analysis) by de.NBI
