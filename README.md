@@ -75,6 +75,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## OCTOBER
 
+*Conference*: October 28-19 [Forsyth Scientific Symposium: Oral Microbiome—Beyond Bacteria](https://www.forsyth.org/event/symposium2021/)
+
 *Webinar*: October 28 [London Microbiome Meeting](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2021-online-tickets-153372175305) by the Dept of Twin Research & Dept of Nutritional Sciences
 
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
