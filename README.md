@@ -75,7 +75,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## OCTOBER
 
-*Conference*: October 28-19 [Forsyth Scientific Symposium: Oral Microbiome—Beyond Bacteria](https://www.forsyth.org/event/symposium2021/)
+*Conference*: October 28-29 [Forsyth Scientific Symposium: Oral Microbiome—Beyond Bacteria](https://www.forsyth.org/event/symposium2021/)
 
 *Webinar*: October 28 [London Microbiome Meeting](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2021-online-tickets-153372175305) by the Dept of Twin Research & Dept of Nutritional Sciences
 
@@ -153,7 +153,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar:* September 1 and 22 [EMBARK Fall Webinars](https://antimicrobialresistance.eu/category/webinars/) – a webinar series where invited speakers will be presenting their AMR research and be contrasted to [EMBARK members](https://twitter.com/EMBARK_JPIAMR) presenting the work performed in the project.
 
-*Webinar:* September 1 [“What is a bioinformatics postdoc?” Zoom Q&A](https://www.abacbs.org/what-is-a-bioinfo-postdoc#!event-register/2021/9/1/abacbs-zoom-q-a-8220-what-is-a-bioinformatics-postdoc-8221) by the Australian Bioinformatics And Computational Biology Society
+*Webinar:* September 1 [“What is a bioinformatics postdoc?” Zoom Q&A](https://www.abacbs.org/what-is-a-bioinfo-postdoc#!event-register/2021/9/1/abacbs-zoom-q-a-8220-what-is-a-bioinformatics-postdoc-8221) by the Australian Bioinformatics And Computational Biology Society. Recording available [here](https://www.youtube.com/watch?v=fWmmPcyyAbM).
 
 *Webinar*: September 1 [Open science coffee ☕: Research Code Review](https://osc-delft.github.io/events) by Open Science Community Delft. Recording and summary available [here](https://osc-delft.github.io/posts/2021/09/03/Research-Code-Review/).
 
