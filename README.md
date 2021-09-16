@@ -137,7 +137,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Course*: September 8-10 [Workshop on Plotting in R](https://www.scilifelab.se/event/workshop-on-plotting-in-r-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
-*Webinar*: September 9 [Computational and Systems Biology Symposium](https://elifesciences.org/events/3e903368/symposium-computational-and-systems-biology) by eLife
+*Webinar*: September 9 [Computational and Systems Biology Symposium](https://elifesciences.org/events/3e903368/symposium-computational-and-systems-biology) by eLife. Recordings available [here](https://elifesciences.org/inside-elife/d830241b/event-report-computational-and-systems-biology-symposium).
 
 *Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
 
