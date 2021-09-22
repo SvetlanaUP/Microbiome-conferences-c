@@ -107,6 +107,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Course*: October 4-8 [2nd de.NBI Summer School 2021 - Microbial Community Analysis](https://www.denbi.de/training/1269-de-nbi-summer-school-2021-part-2-microbial-community-analysis) by de.NBI
 
+*Webinar*: October 4 [Pathogen Surveillance in Agriculture, Food and the Environment (PATH-SAFE)](https://microbiologysociety.org/event/society-events-and-meetings/path-safe-webinar.html) by UK Microbiology Society
+
 ## SEPTEMBER
 
 *Webinar*: September 30 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
