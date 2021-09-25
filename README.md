@@ -69,6 +69,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar*: November 25 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
+*Webinar*: November 24 [Sports Nutrition, Gut Microbiome & Athletic Health](https://www.eventbrite.co.uk/e/yakult-science-webinar-sports-nutrition-gut-microbiome-athletic-health-tickets-166274965899) by Yakult Europe
+
 *Conference:* November 22 [COMBINE Symposium 2021](https://www.combine.org.au/symp/combine-symposium-2021/) 20 September – Abstract submissions close.
 
 *Webinar*: November 2 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
