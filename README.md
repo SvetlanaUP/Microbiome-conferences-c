@@ -145,7 +145,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar*: September 9 [Computational and Systems Biology Symposium](https://elifesciences.org/events/3e903368/symposium-computational-and-systems-biology) by eLife. Recordings available [here](https://elifesciences.org/inside-elife/d830241b/event-report-computational-and-systems-biology-symposium).
 
-*Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821)
+*Conference*: September 8 [Microbiome Superheroes Connect](https://twitter.com/microbiome_net/status/1419461994592161798) by [Australasian Human Microbiome Research Network @microbiome_net](https://twitter.com/microbiome_net/status/1419461994592161798); Speaker Registration [here](https://docs.google.com/forms/d/e/1FAIpQLSfkDBOTOJeZUkHPAs0hRUAd95QqgyyqFPuw2mafbHKDjo_Yfg/viewform); More info [here](https://mailchi.mp/efbd73c834a7/newsletter-7-microbiome-superheroes-connect?e=a518fcd821) Recordings available [here](https://www.youtube.com/watch?v=-vRMC1r_75Q&t=1s).
 
 *Webinar*: September 7 [Convergence Of Circadian Rhythms And Gut Microbes: Maintaining The Metronome Of Life](https://iafns.org/event/convergence-of-circadian-rhythms-and-gut-microbes-maintaining-the-metronome-of-life/) by Vanessa Leone, organized by @IAFNS_science
  
