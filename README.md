@@ -7,6 +7,7 @@ Updated with recordings when available.
 ✉️ **If you would like to share your microbiome-related event, feel free to let me know.**
 
 Also, check out: 
+* a list of [microbiome events & conferences](https://www.microbiomesupport.eu/2021-microbiome-events-conferences/) by MicrobiomeSupport (H2020EU funded project) 
 * a collection of [computational biology/systematic biology/bioinformatics 
 conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-workshops) by @riyuebao and @sk-sahu
 * databases for finding independent biology/ecological postdoctoral fellowships ([source](https://twitter.com/eastonrwhite/status/1375068267916767232)):
