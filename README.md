@@ -78,6 +78,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar*: November 2 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
+*Course*: November 2 [SemiBin for metagenomic binning](https://big-data-biology.org/tutorials/2021-11-02-semibin/) by Big Data Biology Lab
+
 ## OCTOBER
 
 *Conference*: October 28-29 [Forsyth Scientific Symposium: Oral Microbiome—Beyond Bacteria](https://www.forsyth.org/event/symposium2021/)
