@@ -102,6 +102,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar:* October 13 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_1RGdIvubQpmeJLCi56G-zg): Barry McMahon – "How AMR in wildlife can inform zoonoses research" and Victor Hugo Jarquin Diaz – "AMR spread in rodents"
 
+*Webinar:* October 12 [GSBI Speaks webinar: "Ecological networks in belowground communities"](https://www.globalsoilbiodiversity.org/webinars-1)
+
 *Hackathon:* October 11-13 [Bioinformatics tools and methods for AMR in bacteria](https://www.climb.ac.uk/amr-hackathon/) by the Public Health Alliance for Genomic Epidemiology (PHA4GE), the Joint Programming Initiative on Antimicrobial Resistance (JPIAMR) and the Climb Big Data.
 
 *Webinar:* October 11-12 [Workshop on Education in Food Systems Microbiome Related Sciences: Needs for Universities, Industry and Public Health Systems ](https://www.microbiomesupport.eu/coming-up-workshop-on-educational-needs-in-microbiome-sciences/) by MicrobiomeSupport 
