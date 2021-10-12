@@ -128,7 +128,7 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Conference*: September 28-30 [Genomic population structures of microbial pathogens](https://royalsociety.org/science-events-and-lectures/2021/09/microbial-pathogens/)
 
-*Conference*: September 28 [Black in Microbiology week 2021 Research Day](https://linktr.ee/BlackInMicro) by Black Microbiologists Association
+*Conference*: September 28 [Black in Microbiology week 2021 Research Day](https://linktr.ee/BlackInMicro) by Black Microbiologists Association. Recordings available [here](https://www.youtube.com/c/BlackInMicrobiology).
 
 *Course*: September 27, October 1 and 4 [Metagenome-atlas: Three commands to start analysing your metagenome data](https://www.oulu.fi/uniogs/node/212131) by Silas Kieser
 
