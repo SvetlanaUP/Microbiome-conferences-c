@@ -90,6 +90,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Conference*: October 21-22 [8th Theodor Escherich - and AMICI Symposium 2021 (joint meeting)](https://www.medunigraz.at/center-for-microbiome-research/symposia/tes/) "The medical perspective of microbiome research"
 
+*Webinar*: October 21 [IMMSA webinar](https://www.microbialstandards.org/home) Microbiome Standards Development at LGC - Denise O'Sullivan & Accounting for Taxonomic Bias in Metagenomics Experiments - Michael McLaren( NCSU) by The International Microbiome and Multi-Omics Standards Alliance
+
 *Webinar*: October 21 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
 *Course*: October 15 [Workshop on Statistical and Machine Learning Techniques for Microbiome Data Analysis](https://www.ml4microbiome.eu/activities-and-events/ml4microbiome-workshop-on-statistical-and-machine-learning-techniques-for-microbiome-data-analysis/) by ML4Microbiome
