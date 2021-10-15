@@ -66,6 +66,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar*: December 16 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
+*Webinar:* December 15 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_b9HLaCKSQRG163vgRGYbKg) Willem van Schaik – “Metagenomic approaches to understand the spread of antibiotic resistance genes in microbial ecosystems” & Svetlana Ugarcina Perovic – TBA
+
 *Webinar:* December 6 [Gut Microbiome and Cardiovascular Disease Satellite Symposium](https://www.eventbrite.com/e/gut-microbiome-and-cardiovascular-disease-satellite-symposium-tickets-167023793663) by the High Blood Pressure Council Research Council of Australia and Monash University
 
 ## NOVEMBER
@@ -76,7 +78,11 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar*: November 24 [Sports Nutrition, Gut Microbiome & Athletic Health](https://www.eventbrite.co.uk/e/yakult-science-webinar-sports-nutrition-gut-microbiome-athletic-health-tickets-166274965899) by Yakult Europe
 
+*Webinar:* November 24 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_obJqF-cqQBi5UghRiAbjIg) Nikolina Udikovic Kolic – “Pharmaceutical waste and antimicrobial resistance”
+
 *Conference:* November 22 [COMBINE Symposium 2021](https://www.combine.org.au/symp/combine-symposium-2021/) 20 September – Abstract submissions close.
+
+*Webinar:* November 10 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_nX99b6sjSBy1t0ugLZ7odw) Michael Baym – “Exploring non-anthropic selective pressures on antibiotic resistance”
 
 *Webinar*: November 2 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
