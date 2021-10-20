@@ -106,7 +106,7 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Conference*: October 13-15 [Microbiome Interactions in Health and Disease #MIHD21](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-virtual-conference-20211013/) Wellcome Genome Campus, UK
 
-*Course+Conference*: October 13-15 [2021 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2021/) by Institute for Systems Biology
+*Course+Conference*: October 13-15 [2021 ISB Virtual Microbiome Series](https://isbscience.org/microbiome2021/) by Institute for Systems Biology. Recordings available [here](https://www.youtube.com/user/ISBSystemsBiology). Materials and presentations available [here](https://github.com/Gibbons-Lab/isb_course_2021).
 
 *Conference*: October 14 [Grand Challenges of Data-Intensive Science in microbiome & metagenome data analysis and training](https://www.ml4microbiome.eu/activities-and-events/ml4microbiome-symposium-grand-challenges-of-data-intensive-science-in-microbiome-metagenome-data-analysis-and-training-14-oct-2021/) by ML4Microbiome 
 
