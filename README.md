@@ -84,6 +84,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar:* November 10 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_nX99b6sjSBy1t0ugLZ7odw) Michael Baym – “Exploring non-anthropic selective pressures on antibiotic resistance”
 
+*Webinar*: November 3 [#TrendingNow: Putting the Biggest Gut Health Trends Under the Microscope](https://cdhf.ca/events/trending-now/) by The Canadian Digestive Health Foundation (CDHF); open access to the talks on demand until January 30, 2022.
+
 *Webinar*: November 2 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
 *Course*: November 2 [SemiBin for metagenomic binning](https://big-data-biology.org/tutorials/2021-11-02-semibin/) by Big Data Biology Lab
