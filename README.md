@@ -147,7 +147,7 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Course*: September 29 - October 1 [Snakemake BYOC (bring-your-own-code) workshop](https://www.scilifelab.se/event/snakemake-byoc-bring-your-own-code-workshop-online/) by NBIS – National Bioinformatics Infrastructure Sweden
 
-*Conference*: September 28-30 [Genomic population structures of microbial pathogens](https://royalsociety.org/science-events-and-lectures/2021/09/microbial-pathogens/)
+*Conference*: September 28-30 [Genomic population structures of microbial pathogens](https://royalsociety.org/science-events-and-lectures/2021/09/microbial-pathogens/). Recordings available [here](https://royalsociety.org/science-events-and-lectures/2021/09/microbial-pathogens/).
 
 *Conference*: September 28 [Black in Microbiology week 2021 Research Day](https://linktr.ee/BlackInMicro) by Black Microbiologists Association. Recordings available [here](https://www.youtube.com/c/BlackInMicrobiology).
 
