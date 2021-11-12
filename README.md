@@ -82,6 +82,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Conference:* November 22 [COMBINE Symposium 2021](https://www.combine.org.au/symp/combine-symposium-2021/) 20 September – Abstract submissions close.
 
+*Webinar:* November 16 [MIT Microbiome Club](https://www.eventbrite.com/e/academic-seminar-dr-ophelia-venturelli-university-of-wisconsin-madison-registration-209411845467): Predicting and designing human gut microbiome functions by Ophelia Venturelli.
+
 *Webinar:* November 10 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_nX99b6sjSBy1t0ugLZ7odw) Michael Baym – “Exploring non-anthropic selective pressures on antibiotic resistance”
 
 *Webinar*: November 3 [#TrendingNow: Putting the Biggest Gut Health Trends Under the Microscope](https://cdhf.ca/events/trending-now/) by The Canadian Digestive Health Foundation (CDHF); open access to the talks on demand until January 30, 2022.
