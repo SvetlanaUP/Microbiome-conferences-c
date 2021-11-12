@@ -61,12 +61,21 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar*: [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/nccr-seminar-series-fall-programme/) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
 
+## 2022
+
+## JANUARY
+
+🌐 *Conference*: January 11 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Eran Elinav.
+
+## 2021
 
 ## DECEMBER
 
 *Webinar*: December 16 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
 *Webinar:* December 15 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_b9HLaCKSQRG163vgRGYbKg) Willem van Schaik – “Metagenomic approaches to understand the spread of antibiotic resistance genes in microbial ecosystems” & Svetlana Ugarcina Perovic – TBA
+
+🌐 *Conference*: December 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Jonathan Eisen.
 
 *Webinar:* December 6 [Gut Microbiome and Cardiovascular Disease Satellite Symposium](https://www.eventbrite.com/e/gut-microbiome-and-cardiovascular-disease-satellite-symposium-tickets-167023793663) by the High Blood Pressure Council Research Council of Australia and Monash University
 
