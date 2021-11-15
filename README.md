@@ -77,6 +77,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 🌐 *Conference*: December 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Jonathan Eisen.
 
+*Webinar:* December 8 [FMT Superheroes Connect](https://deakin.zoom.us/meeting/register/tZYrcOyqrTIqH9daNI9tX3QNhzwXKW4NvwU-) by [Australasian Human Microbiome Research Network](https://twitter.com/microbiome_net).
+
 *Webinar:* December 6 [Gut Microbiome and Cardiovascular Disease Satellite Symposium](https://www.eventbrite.com/e/gut-microbiome-and-cardiovascular-disease-satellite-symposium-tickets-167023793663) by the High Blood Pressure Council Research Council of Australia and Monash University
 
 ## NOVEMBER
@@ -87,9 +89,11 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar*: November 24 [Sports Nutrition, Gut Microbiome & Athletic Health](https://www.eventbrite.co.uk/e/yakult-science-webinar-sports-nutrition-gut-microbiome-athletic-health-tickets-166274965899) by Yakult Europe
 
-*Webinar:* November 24 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_obJqF-cqQBi5UghRiAbjIg) Nikolina Udikovic Kolic – “Pharmaceutical waste and antimicrobial resistance”
+*Webinar:* November 24 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_obJqF-cqQBi5UghRiAbjIg) Nikolina Udikovic Kolic – “Pharmaceutical waste and antimicrobial resistance” & Ulrike Löber – “Drugs as antidotes – How drugs affect the damage on gut commensals under antibiotics course”
 
 *Conference:* November 22 [COMBINE Symposium 2021](https://www.combine.org.au/symp/combine-symposium-2021/) 20 September – Abstract submissions close.
+
+*Webinar:* November 18 [#SGBUG](https://twitter.com/search?q=%23SGBUG&src=typed_query&f=live) Online Seminar: Natacha Ruiz – Transporting lipids to build the outer membrane in Gram-negative bacteria. Registration [here](https://nus-sg.zoom.us/meeting/register/tZMpcu-oqTkvH9Y8VW1xFI_xF0XdyOAMFEzL).
 
 *Webinar:* November 16 [MIT Microbiome Club](https://www.eventbrite.com/e/academic-seminar-dr-ophelia-venturelli-university-of-wisconsin-madison-registration-209411845467): Predicting and designing human gut microbiome functions by Ophelia Venturelli.
 
