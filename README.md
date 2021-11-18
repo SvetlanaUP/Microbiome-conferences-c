@@ -81,6 +81,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar:* December 6 [Gut Microbiome and Cardiovascular Disease Satellite Symposium](https://www.eventbrite.com/e/gut-microbiome-and-cardiovascular-disease-satellite-symposium-tickets-167023793663) by the High Blood Pressure Council Research Council of Australia and Monash University
 
+*Webinar:* December 6 [Reference-free and ecology-based data analysis for understanding gut microbiome in human health and diseases](https://rutgers.zoom.us/meeting/register/tJYuc-CpqD8iHtXIEwMYmwkIcjbhJQQjDssA) by [Liping Zhao](https://twitter.com/Gutzhao/status/1460995427638067201)
+
 ## NOVEMBER
 
 *Webinar*: November 30 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/wp-content/uploads/2021/08/External_Seminars2021_fall.pdf) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
