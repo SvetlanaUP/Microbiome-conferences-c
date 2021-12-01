@@ -79,6 +79,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar:* December 8 [FMT Superheroes Connect](https://deakin.zoom.us/meeting/register/tZYrcOyqrTIqH9daNI9tX3QNhzwXKW4NvwU-) by [Australasian Human Microbiome Research Network](https://twitter.com/microbiome_net).
 
+*Webinar:* December 7-9 [The Future of the Microbiome 2021 Summit](https://futureofmicrobiome.com/)
+
 *Webinar:* December 6 [Gut Microbiome and Cardiovascular Disease Satellite Symposium](https://www.eventbrite.com/e/gut-microbiome-and-cardiovascular-disease-satellite-symposium-tickets-167023793663) by the High Blood Pressure Council Research Council of Australia and Monash University
 
 *Webinar:* December 6 [Reference-free and ecology-based data analysis for understanding gut microbiome in human health and diseases](https://rutgers.zoom.us/meeting/register/tJYuc-CpqD8iHtXIEwMYmwkIcjbhJQQjDssA) by [Liping Zhao](https://twitter.com/Gutzhao/status/1460995427638067201)
