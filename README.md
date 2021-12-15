@@ -75,6 +75,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 *Webinar*: December 16 [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
+*Webinar*: December 16 [Seamposium: The seagrass microbiome](https://imedea.uib-csic.es/communication_details.php?id=1907&tp=n) by Gerard Muyzer
+
 *Webinar:* December 15 [EMBARK Webinar](https://gu-se.zoom.us/webinar/register/WN_b9HLaCKSQRG163vgRGYbKg) Willem van Schaik – “Metagenomic approaches to understand the spread of antibiotic resistance genes in microbial ecosystems” & Svetlana Ugarcina Perovic – TBA
 
 🌐 *Conference*: December 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Jonathan Eisen.
