@@ -73,6 +73,8 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 ## JANUARY
 
+*Conference*: January 13 & 14 [2nd Global Microbiome Network – GloMiNe – Symposium for Africa](https://gulbenkian.pt/ciencia/agenda/2nd-global-microbiome-network-glomine-symposium-for-africa/)
+
 🌐 *Conference*: January 11 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Eran Elinav.
 
 *Webinar:* January 11 [#SGBUG](https://twitter.com/search?q=%23SGBUG&src=typed_query&f=live) Online Seminar: The Dark Side of Science: Misconduct in Biomedical Research by Dr Elisabeth Bik. Registration [here](https://nus-sg.zoom.us/meeting/register/tZAqc-2trz8oHd3Yeg0lIr-1i_jy7rFBDVfU).
