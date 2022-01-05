@@ -73,7 +73,7 @@ Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-
 
 ## JANUARY
 
-*Webinar:* January 19 [Fibre, blood pressure and the gut microbiome](https://lab.vanderbilt.edu/microbiome/) by Francine Marques. Microbiome Webinar Series by The Vanderbilt Microbiome Innovation Center.
+*Webinar:* January 19  Microbiome Webinar Series by The Vanderbilt Microbiome Innovation Center: [Fibre, blood pressure and the gut microbiome](https://lab.vanderbilt.edu/microbiome/) by Francine Marques.
 
 *Conference*: January 13 & 14 [2nd Global Microbiome Network – GloMiNe – Symposium for Africa](https://gulbenkian.pt/ciencia/agenda/2nd-global-microbiome-network-glomine-symposium-for-africa/)
 
