@@ -30,7 +30,9 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
-Webinar: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology) an hour of live electron microscopy by Plymouth Electron Microscopy Centre 
+*Webinar*: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology) an hour of live electron microscopy by Plymouth Electron Microscopy Centre 
+
+*Webinar*: [Microbiome Centers Consortium (MCC) Seminar series](https://docs.google.com/document/d/1R3iWy_hYbVwk2096ZebgY_3jUOTjSbKVTL5HNQrGRu4/edit#) by [@AllMicrobiomes](https://twitter.com/AllMicrobiomes).
 
 *Webinar*: [Microbial Genomics Seminar Series](https://microbiologysociety.org/event/scientific-seminar-series/microbial-genomics-seminar-series.html) by Microbiology Society UK 
 
