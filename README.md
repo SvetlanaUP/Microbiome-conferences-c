@@ -75,6 +75,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## JANUARY
 
+*Webinar:* January 26 Homewood Research Institute talks: [Mysteries of the Microbiome: Exploring the Gut-Brain Connection](https://us02web.zoom.us/webinar/register/9716394961092/WN_HWxPUTIpSsGPnN6SRBjKgw) by Emma Allen-Vercoe.
+
 *Webinar:* January 19  Microbiome Webinar Series by The Vanderbilt Microbiome Innovation Center: [Fibre, blood pressure and the gut microbiome](https://lab.vanderbilt.edu/microbiome/) by Francine Marques.
 
 *Conference*: January 13 & 14 [2nd Global Microbiome Network – GloMiNe – Symposium for Africa](https://gulbenkian.pt/ciencia/agenda/2nd-global-microbiome-network-glomine-symposium-for-africa/)
