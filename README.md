@@ -32,6 +32,10 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar*: [Microbiome Centers Consortium (MCC) Seminar series](https://docs.google.com/document/d/1R3iWy_hYbVwk2096ZebgY_3jUOTjSbKVTL5HNQrGRu4/edit#) by [@AllMicrobiomes](https://twitter.com/AllMicrobiomes).
 
+*Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) 
+* a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
+* recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
+
 ## 2021
 
 *Webinar*: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology) an hour of live electron microscopy by Plymouth Electron Microscopy Centre 
@@ -55,10 +59,6 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 *Webinar*: [Microbiome Informatics webinars](https://u.osu.edu/coms/webinar-series/)
 * Spring 2021 (Tuesdays 1-3 EST)
 
-*Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) 
-* a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
-* recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
-
 *Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
 
 *Webinar*: [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
@@ -67,13 +67,23 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## 2022
 
+## MAY
+
+🌐 *Conference*: May [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Wendy Garrett.
+
 ## APRIL
 
 *Conference*: April 27–29 [Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies (Virtual Conference)](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-virtual-conference-20220427/) by Wellcome Genome Campus, UK. Note: delegates from Lower and Middle-Income Countries (LMIC) can register for FREE. 
 
+🌐 *Conference*: April [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Suhelen Egan.
+
 ## MARCH
 
+🌐 *Conference*: March 8 & 10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Willem De Vos. 
+
 ## FEBRUARY
+
+🌐 *Conference*: February 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Susan Holmes.
 
 ## JANUARY
 
