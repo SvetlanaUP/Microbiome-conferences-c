@@ -30,6 +30,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
+
 *Webinar*: [Microbiome Centers Consortium (MCC) Seminar series](https://docs.google.com/document/d/1R3iWy_hYbVwk2096ZebgY_3jUOTjSbKVTL5HNQrGRu4/edit#) by [@AllMicrobiomes](https://twitter.com/AllMicrobiomes).
 
 *Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) 
@@ -58,8 +60,6 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar*: [Microbiome Informatics webinars](https://u.osu.edu/coms/webinar-series/)
 * Spring 2021 (Tuesdays 1-3 EST)
-
-*Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
 
 *Webinar*: [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
 
