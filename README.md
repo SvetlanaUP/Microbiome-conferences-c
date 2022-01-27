@@ -87,7 +87,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 🌐 *Conference*: February 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Susan Holmes.
 
-*Webinar:* February 2 #hilifewebinars: [Thark Side of Science: Misconduct in Biomedical Research](https://twitter.com/HiLIFE_helsinki/status/1486310065544085508) by Elisabeth Bik.
+*Webinar:* February 2 #hilifewebinars: [The Dark Side of Science: Misconduct in Biomedical Research](https://twitter.com/HiLIFE_helsinki/status/1486310065544085508) by Elisabeth Bik.
 
 ## JANUARY
 
