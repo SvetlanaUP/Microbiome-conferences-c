@@ -87,6 +87,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 🌐 *Conference*: February 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Susan Holmes.
 
+*Webinar:* February 2 #hilifewebinars: [Thark Side of Science: Misconduct in Biomedical Research](https://twitter.com/HiLIFE_helsinki/status/1486310065544085508) by Elisabeth Bik.
+
 ## JANUARY
 
 *Webinar:* January 26 Homewood Research Institute talks: [Mysteries of the Microbiome: Exploring the Gut-Brain Connection](https://us02web.zoom.us/webinar/register/9716394961092/WN_HWxPUTIpSsGPnN6SRBjKgw) by Emma Allen-Vercoe.
