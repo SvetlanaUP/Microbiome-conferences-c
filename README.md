@@ -85,6 +85,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar:* February 11 [Microbes in your drinking water](https://paotm.nl/en/webinar/webinar-microbes-in-your-drinking-water/) with Emmanuelle Prest and Frederik Hammes.
 
+*Webinar:* February 10 EBNet Webinar: [Using Big Data Approaches to Understand Microbial Communities](https://ebnet.ac.uk/ebnet-rc22-bigdata/) 
+
 *Webinar:* February 10 Health Sciences Seminar Series: [Bioreactors as tools to study the human gut microbiome: from bench to bedside and beyond](https://carleton.ca/healthsciences/cu-events/2021-22-health-sciences-seminar-series-dr-emma-allen-vercoe/) by Emma Allen-Vercoe.
 
 🌐 *Conference*: February 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Susan Holmes.
