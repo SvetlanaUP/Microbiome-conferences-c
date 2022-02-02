@@ -73,6 +73,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## APRIL
 
+*Conference*: April 29 [MIT Microbiome Symposium](https://microbiome2022.wordpress.com/)
+
 *Conference*: April 27–29 [Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies (Virtual Conference)](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-virtual-conference-20220427/) by Wellcome Genome Campus, UK. Note: delegates from Lower and Middle-Income Countries (LMIC) can register for FREE. 
 
 🌐 *Conference*: April [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Suhelen Egan.
