@@ -34,6 +34,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Webinar*: [Microbiome Centers Consortium (MCC) Seminar series](https://docs.google.com/document/d/1R3iWy_hYbVwk2096ZebgY_3jUOTjSbKVTL5HNQrGRu4/edit#) by [@AllMicrobiomes](https://twitter.com/AllMicrobiomes).
 
+*Webinar*: [Microbiome Webinar Series](https://lab.vanderbilt.edu/microbiome/) by [The Vanderbilt Microbiome Innovation Center](https://twitter.com/VuBiome).
+
 *Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) 
 * a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
 * recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
@@ -90,6 +92,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 *Webinar:* February 10 EBNet Webinar: [Using Big Data Approaches to Understand Microbial Communities](https://ebnet.ac.uk/ebnet-rc22-bigdata/) 
 
 *Webinar:* February 10 Health Sciences Seminar Series: [Bioreactors as tools to study the human gut microbiome: from bench to bedside and beyond](https://carleton.ca/healthsciences/cu-events/2021-22-health-sciences-seminar-series-dr-emma-allen-vercoe/) by Emma Allen-Vercoe.
+
+*Webinar*: February 9 [Microbiome Webinar Series](https://twitter.com/VuBiome/status/1489008467641651200) with Molly Bletz, organized by [The Vanderbilt Microbiome Innovation Center](https://lab.vanderbilt.edu/microbiome/).
 
 🌐 *Conference*: February 8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Susan Holmes.
 
