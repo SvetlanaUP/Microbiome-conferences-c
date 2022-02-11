@@ -79,11 +79,13 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Conference*: April 27–29 [Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies (Virtual Conference)](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-virtual-conference-20220427/) by Wellcome Genome Campus, UK. Note: delegates from Lower and Middle-Income Countries (LMIC) can register for FREE. 
 
-🌐 *Conference*: April [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Suhelen Egan.
+🌐 *Conference*: April 11/12 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Suhelen Egan.
 
 ## MARCH
 
-🌐 *Conference*: March 8 & 10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Willem De Vos. 
+🌐 *Conference*: March 8 & 9/10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Willem De Vos. 
+
+*Conference*: [The 4th annual York Microbiology Symposium (YMS2022)](https://www.eventbrite.co.uk/e/york-microbiology-symposium-2022-tickets-254570596507)
 
 ## FEBRUARY
 
