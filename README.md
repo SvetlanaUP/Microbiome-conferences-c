@@ -85,7 +85,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 🌐 *Conference*: March 8 & 9/10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Willem De Vos. 
 
-*Conference*: [The 4th annual York Microbiology Symposium (YMS2022)](https://www.eventbrite.co.uk/e/york-microbiology-symposium-2022-tickets-254570596507)
+*Conference*: March 3 [The 4th annual York Microbiology Symposium (YMS2022)](https://www.eventbrite.co.uk/e/york-microbiology-symposium-2022-tickets-254570596507)
 
 ## FEBRUARY
 
