@@ -71,7 +71,10 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## MAY
 
+*Webinar:* May 16 The fourth annual Harvard Chan Microbiome in Public Health Center (HCMPH) symposium [The Microbiome and Chronic Diseases](https://hcmph.sph.harvard.edu/hcmph-symposium/)
+
 🌐 *Conference*: May [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Wendy Garrett.
+
 
 ## APRIL
 
