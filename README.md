@@ -88,7 +88,7 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 🌐 *Conference*: March 8 & 9/10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Willem De Vos. 
 
-*Webinar:* March 7 MEWE Webinar:[qPCR? What is it good for? Absolutely some things.](https://www.eventbrite.com/e/mewe-webinar-qpcr-what-is-it-good-for-tickets-274911837707) by IWA MEWE.
+*Webinar:* March 7 MEWE Webinar:[qPCR? What is it good for? Absolutely some things.](https://www.eventbrite.com/e/mewe-webinar-qpcr-what-is-it-good-for-tickets-274911837707) by IWA MEWE. Recordings available [here](https://www.dropbox.com/s/lui1ajbvowdbzhq/March_7_2022_Webinar_qPCR.mp4).
 
 *Conference*: March 3 [The 4th annual York Microbiology Symposium (YMS2022)](https://www.eventbrite.co.uk/e/york-microbiology-symposium-2022-tickets-254570596507)
 
