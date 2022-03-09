@@ -32,6 +32,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
 
+*Webinar*: [#EMBARK2022 AMR webinars](https://antimicrobialresistance.eu/category/webinars/)
+
 *Webinar*: [Microbiome Centers Consortium (MCC) Seminar series](https://docs.google.com/document/d/1R3iWy_hYbVwk2096ZebgY_3jUOTjSbKVTL5HNQrGRu4/edit#) by [@AllMicrobiomes](https://twitter.com/AllMicrobiomes).
 
 *Webinar*: [Microbiome Webinar Series](https://lab.vanderbilt.edu/microbiome/) by [The Vanderbilt Microbiome Innovation Center](https://twitter.com/VuBiome).
@@ -69,11 +71,17 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 ## 2022
 
+## JUNE
+
+*Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
+
 ## MAY
+
+*Webinar:* May 18 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Nichole Broderick.
 
 *Conference*: May 16 The fourth annual Harvard Chan Microbiome in Public Health Center (HCMPH) symposium [The Microbiome and Chronic Diseases](https://hcmph.sph.harvard.edu/hcmph-symposium/)
 
-🌐 *Conference*: May [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Wendy Garrett.
+🌐 *Conference*: May 10 & 11/12 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Wendy Garrett.
 
 
 ## APRIL
@@ -82,9 +90,14 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Conference*: April 27–29 [Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies (Virtual Conference)](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-virtual-conference-20220427/) by Wellcome Genome Campus, UK. Note: delegates from Lower and Middle-Income Countries (LMIC) can register for FREE. 
 
+*Webinar:* April 13 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Ramanan Laxminarayan: State of the World’s Antibiotics 2022.
+
 🌐 *Conference*: April 11/12 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Suhelen Egan.
 
 ## MARCH
+
+*Webinar:* March 16 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Windi Muziasari (Global database of ARGs in the environment)
+and Anna Abramova (Meta-analysis reveals the global picture of antibiotic resistance gene prevalence across environments).
 
 🌐 *Conference*: March 8 & 9/10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Willem De Vos. 
 
