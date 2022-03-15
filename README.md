@@ -98,6 +98,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Conference*: March 25 [The 8th annual BCB symposium: The future of bioinformatics](https://www.gdcb.iastate.edu/8th-annual-bcb-symposium-future-bioinformatics)
 
+*Webinar:* March 22 [New Ideas in Microbiome Research](https://www.microbiome-research.net/events) by Australasian Human Microbiome Research Network.
+
 *Webinar:* March 16 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Windi Muziasari (Global database of ARGs in the environment)
 and Anna Abramova (Meta-analysis reveals the global picture of antibiotic resistance gene prevalence across environments).
 
