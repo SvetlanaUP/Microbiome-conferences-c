@@ -15,10 +15,8 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 * postdoc funding opportunities ([source](https://twitter.com/deniswirtz/status/1402679957189382149)): [here](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/)
 * a list of [funding schemes and opportunities for postdoctoral fellowships](https://asntech.github.io/postdoc-funding-schemes/) by #eLifeAmbassadors @khanaziz84 et al.
 * [PhD tips – How to ask a question after a seminar](http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar) by [Elisa Granato](https://twitter.com/Prokaryota)
-* [Effectively communicating your science](https://osu.zoom.us/rec/play/UO8sZcmUJohhkei37_-vuGlw4sg84VajEJyEdUZd9L7B9-n91plpknJoSvtZxbJEBKIGn9sXhoD8mIit.RhJfi5UsyJBanuXs) by Molly Ingersoll
 
-EFFECTIVELY COMMUNICATING YOUR SCIENCE
-* and I wrote about the roles of [**Twitter in my academic life**](http://big-data-biology.org/blog/2021/03/29/Twitter_in_an_academic_life/)
+and I wrote about the roles of [**Twitter in my academic life**](http://big-data-biology.org/blog/2021/03/29/Twitter_in_an_academic_life/)
 
 
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
