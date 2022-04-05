@@ -26,19 +26,17 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## Regular
 
-🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
 
 *Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
 
-*Webinar*: [#EMBARK2022 AMR webinars](https://antimicrobialresistance.eu/category/webinars/)
+*Webinar*: [#EMBARK2022 AMR webinars](https://antimicrobialresistance.eu/category/webinars/) Recordings available [here](https://www.youtube.com/playlist?list=PLoOBfbRnSmL4ENlQtOARm0bVyQ485L6R6).
 
 *Webinar*: [Microbiome Centers Consortium (MCC) Seminar series](https://docs.google.com/document/d/1R3iWy_hYbVwk2096ZebgY_3jUOTjSbKVTL5HNQrGRu4/edit#) by [@AllMicrobiomes](https://twitter.com/AllMicrobiomes).
 
 *Webinar*: [Microbiome Webinar Series](https://lab.vanderbilt.edu/microbiome/) by [The Vanderbilt Microbiome Innovation Center](https://twitter.com/VuBiome).
 
-*Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) 
-* a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
-* recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
+*Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
 
 ## JUNE
 
