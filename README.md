@@ -90,6 +90,8 @@ EFFECTIVELY COMMUNICATING YOUR SCIENCE
 
 *Conference*: April 27–29 [Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies (Virtual Conference)](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-virtual-conference-20220427/) by Wellcome Genome Campus, UK. Note: delegates from Lower and Middle-Income Countries (LMIC) can register for FREE. 
 
+*Webinar:* April 16 #BISMiSLive: [Special Dialogue on "SeqCode: an alternative code for naming the uncultivated"](https://us02web.zoom.us/webinar/register/WN_mj7ADLqOQ9Cj66DRshH3Tw)
+
 *Webinar:* April 13 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Ramanan Laxminarayan: State of the World’s Antibiotics 2022.
 
 🌐 *Conference*: April 11/12 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Suhelen Egan.
