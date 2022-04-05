@@ -40,35 +40,6 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 * a monthly seminar series, scheduled for the third Saturday of each month, starting March 2021.
 * recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q)
 
-## 2021
-
-*Webinar*: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology) an hour of live electron microscopy by Plymouth Electron Microscopy Centre 
-
-*Webinar*: [Microbial Genomics Seminar Series](https://microbiologysociety.org/event/scientific-seminar-series/microbial-genomics-seminar-series.html) by Microbiology Society UK 
-
-*Webinar*: [Open science coffee ☕](https://github.com/osc-delft/ideas-and-plans/issues/7) by Open Science Community Delft
-
-*Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by [@ICENICentre](https://twitter.com/ICENICentre)
-
-*Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
-* Microtalks takes place at 4PM on the last Wednesday of every month!
-
-*Webinar*: [#EMBARK2021 AMR webinars](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/). Recordings available [here](https://www.youtube.com/playlist?list=PLoOBfbRnSmL4ENlQtOARm0bVyQ485L6R6)
-
-*Webinar*: [University of Nottingham Sutton Bonington AMR Webinar Series 2021](https://twitter.com/RyanCookAMR/status/1366712828904824835); Webinar [Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fteam%2F19%3A4fa917a7bfa14c5f91b7a7cd30ce8574%40thread.skype%2Fconversations%3FgroupId%3D39dca70b-e968-4621-bb4e-85b9c44f70db%26tenantId%3D67bda7ee-fd80-41ef-ac91-358418290a1e&type=team&deeplinkId=805f7aa8-a9b4-42dc-9eb7-b1a8bbdeb013&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
-
-*Webinar*: [Brain-Body Interactions virtual seminar series](https://www.brainbodyinteractions.org/)
-* every Monday
-
-*Webinar*: [Microbiome Informatics webinars](https://u.osu.edu/coms/webinar-series/)
-* Spring 2021 (Tuesdays 1-3 EST)
-
-*Webinar*: [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
-
-*Webinar*: [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/nccr-seminar-series-fall-programme/) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
-
-## 2022
-
 ## JUNE
 
 *Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
@@ -136,6 +107,34 @@ and Anna Abramova (Meta-analysis reveals the global picture of antibiotic resist
 *Webinar:* January 11 [#SGBUG](https://twitter.com/search?q=%23SGBUG&src=typed_query&f=live) Online Seminar: The Dark Side of Science: Misconduct in Biomedical Research by Dr Elisabeth Bik. Registration [here](https://nus-sg.zoom.us/meeting/register/tZAqc-2trz8oHd3Yeg0lIr-1i_jy7rFBDVfU).
 
 ## 2021
+
+## Regular
+
+*Webinar*: [Microscopy live!](https://www.plymouth.ac.uk/whats-on/microscopy-live-geology) an hour of live electron microscopy by Plymouth Electron Microscopy Centre 
+
+*Webinar*: [Microbial Genomics Seminar Series](https://microbiologysociety.org/event/scientific-seminar-series/microbial-genomics-seminar-series.html) by Microbiology Society UK 
+
+*Webinar*: [Open science coffee ☕](https://github.com/osc-delft/ideas-and-plans/issues/7) by Open Science Community Delft
+
+*Webinar*: [Microbiome Series](https://icenicentre.org/courses/microbiome-series/) by [@ICENICentre](https://twitter.com/ICENICentre)
+
+*Webinar*: [The MicroTalks seminar series](https://twitter.com/BCM_Microbiome/status/1403425994493599745) hosted by the @asm_tmc is looking for speakers!
+* Microtalks takes place at 4PM on the last Wednesday of every month!
+
+*Webinar*: [#EMBARK2021 AMR webinars](https://antimicrobialresistance.eu/2021/03/26/embark-spring-webinars/). Recordings available [here](https://www.youtube.com/playlist?list=PLoOBfbRnSmL4ENlQtOARm0bVyQ485L6R6)
+
+*Webinar*: [University of Nottingham Sutton Bonington AMR Webinar Series 2021](https://twitter.com/RyanCookAMR/status/1366712828904824835); Webinar [Link](https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fteam%2F19%3A4fa917a7bfa14c5f91b7a7cd30ce8574%40thread.skype%2Fconversations%3FgroupId%3D39dca70b-e968-4621-bb4e-85b9c44f70db%26tenantId%3D67bda7ee-fd80-41ef-ac91-358418290a1e&type=team&deeplinkId=805f7aa8-a9b4-42dc-9eb7-b1a8bbdeb013&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true)
+
+*Webinar*: [Brain-Body Interactions virtual seminar series](https://www.brainbodyinteractions.org/)
+* every Monday
+
+*Webinar*: [Microbiome Informatics webinars](https://u.osu.edu/coms/webinar-series/)
+* Spring 2021 (Tuesdays 1-3 EST)
+
+*Webinar*: [SymbNET Online Seminar Series](https://igc.events.idloom.com/symbnet_seminars) Monthly seminars on host-microbe symbiosis, genomics, and metabolomics, with two talks from SymbNET researchers.
+
+*Webinar*: [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/nccr-seminar-series-fall-programme/) The bimonthly NCCR Microbiomes Seminar Series alternates internal NCCR progress reports and seminars given by external invited speakers.
+
 
 ## DECEMBER
 
