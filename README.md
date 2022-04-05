@@ -28,7 +28,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
 
-*Course*: [Big Data Biology Lab bioinformatics tutorials](http://big-data-biology.org/tutorials/)
+*Course*: [Big Data Biology Lab bioinformatics tutorials](https://github.com/BigDataBiology/talk-tips-n-tricks-large-python)
 
 *Webinar*: [#EMBARK2022 AMR webinars](https://antimicrobialresistance.eu/category/webinars/) Recordings available [here](https://www.youtube.com/playlist?list=PLoOBfbRnSmL4ENlQtOARm0bVyQ485L6R6).
 
