@@ -44,7 +44,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## MAY
 
-*Course:* May 18, 20, 27 & June 3, 10 [Beginners guide to 16S Microbial Analysis](https://www.eventbrite.com.au/e/beginners-guide-to-16s-microbial-analysis-tickets-314190741967) by Matthew Snelson from the AHMRN.
+*Course:* May 20, 27 & June 3, 10 [Beginners guide to 16S Microbial Analysis](https://www.eventbrite.com.au/e/beginners-guide-to-16s-microbial-analysis-tickets-314190741967) by Matthew Snelson from the AHMRN.
 
 *Webinar:* May 18 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Nichole Broderick.
 
