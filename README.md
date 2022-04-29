@@ -40,7 +40,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## JUNE
 
-🌐 *Conference*: June 22/23 & 24 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Kenya Honda.
+🌐 *Conference*: June 15/16 & 17 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Kenya Honda.
 
 *Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
 
