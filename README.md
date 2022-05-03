@@ -50,6 +50,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar:* May 18 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Nichole Broderick.
 
+*Webinar:* May 18 [Microbiome Webinar 2022](https://www.eventbrite.co.uk/e/microbiome-webinar-2022-tickets-321248852967)by Don Whitley Scientific.
+
 *Conference*: May 16 The fourth annual Harvard Chan Microbiome in Public Health Center (HCMPH) symposium [The Microbiome and Chronic Diseases](https://hcmph.sph.harvard.edu/hcmph-symposium/)
 
 🌐 *Conference*: May 10 & 11/12 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Wendy Garrett.
