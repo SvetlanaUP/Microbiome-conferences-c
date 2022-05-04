@@ -46,6 +46,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
 
+*Conference*: June 9 [Novozymes Prize Symposium: (Federating) Bioinformatics tools and resources](https://www.tilmeld.dk/novozymesprize/conference) with Peer Bork and colleagues.
+
 ## MAY
 
 *Course:* May 20, 27 & June 3, 10 [Beginners guide to 16S Microbial Analysis](https://www.eventbrite.com.au/e/beginners-guide-to-16s-microbial-analysis-tickets-314190741967) by Matthew Snelson from the AHMRN.
