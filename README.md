@@ -38,6 +38,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
 
+*Webinar*: [Uppsala Antibiotic Center](https://uac.uu.se/calendar/) Recordings available [here](https://www.youtube.com/channel/UCZyPO75CEtHxprQBa8AmEjA).
+
 ## JUNE
 
 🌐 *Conference*: June 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Kenya Honda.
@@ -55,6 +57,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 *Conference*: May 16 The fourth annual Harvard Chan Microbiome in Public Health Center (HCMPH) symposium [The Microbiome and Chronic Diseases](https://hcmph.sph.harvard.edu/hcmph-symposium/)
 
 🌐 *Conference*: May 10 & 11/12 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Wendy Garrett.
+
+*Webinar:* May 6 [UAC AMR seminar](https://uac.uu.se/calendar/event/?eventId=65300) with Maria Selmer & Diarmaid Hughes.
 
 
 ## APRIL
