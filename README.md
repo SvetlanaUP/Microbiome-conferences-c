@@ -56,7 +56,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar:* May 18 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Nichole Broderick.
 
-*Webinar:* May 18 [Microbiome Webinar 2022](https://www.eventbrite.co.uk/e/microbiome-webinar-2022-tickets-321248852967): The diverse roles of human and animal gut microbiota in health and disease, organized by Don Whitley Scientific.
+*Webinar:* May 18 [Microbiome Webinar 2022](https://www.eventbrite.co.uk/e/microbiome-webinar-2022-tickets-321248852967): The diverse roles of human and animal gut microbiota in health and disease, organized by Don Whitley Scientific. Recordings available [here](https://www.dwscientific.com/watch-microbiome-webinar-2022).
 
 *Conference*: May 16 The fourth annual Harvard Chan Microbiome in Public Health Center (HCMPH) symposium [The Microbiome and Chronic Diseases](https://hcmph.sph.harvard.edu/hcmph-symposium/)
 
