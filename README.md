@@ -50,7 +50,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## MAY
 
-*Webinar:* May 25 [FMT Meet-Up](https://deakin.zoom.us/meeting/register/tZctdeivrzMjEtWrMa_YyuIfSr4llPHDy4Gr) by Nádia Amorim from the AHMRN.
+*Webinar:* May 25 [FMT Meet-Up](https://deakin.zoom.us/meeting/register/tZctdeivrzMjEtWrMa_YyuIfSr4llPHDy4Gr) by Nádia Amorim from the [AHMRN](https://www.microbiome-research.net/).
 
 *Course:* May 20, 27 & June 3, 10 [Beginners guide to 16S Microbial Analysis](https://www.eventbrite.com.au/e/beginners-guide-to-16s-microbial-analysis-tickets-314190741967) by Matthew Snelson from the AHMRN.
 
