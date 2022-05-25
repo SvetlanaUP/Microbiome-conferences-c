@@ -48,6 +48,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
 
+*Course*: June 14 [SemiBin for metagenomic binning](https://big-data-biology.org/tutorials/2022-06-14_SemiBin/) by Big Data Biology Lab
+
 *Conference*: June 9 [Novozymes Prize Symposium: (Federating) Bioinformatics tools and resources](https://www.tilmeld.dk/novozymesprize/conference) with Peer Bork and colleagues.
 
 ## MAY
