@@ -40,6 +40,15 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar*: [Uppsala Antibiotic Center](https://uac.uu.se/calendar/) Recordings available [here](https://www.youtube.com/channel/UCZyPO75CEtHxprQBa8AmEjA).
 
+
+## SEPTEMBER
+
+*Conference*: September 21-23 [Genome Informatics 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20220921/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
+
+## AUGUST ⛱️
+
+## JULY ⛱️
+
 ## JUNE
 
 *Conference*: June 27-29 [MicrobiomeSupport Final Conference: Paving the Microbiome Way](https://www.eventbrite.co.uk/e/microbiomesupport-final-conference-paving-the-microbiome-way-tickets-228993003237) by EUFIC - the European Food Information Council.
