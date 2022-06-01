@@ -61,6 +61,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Conference*: June 9 [Novozymes Prize Symposium: (Federating) Bioinformatics tools and resources](https://www.tilmeld.dk/novozymesprize/conference) with Peer Bork and colleagues.
 
+*Webinar:* June 3 C-DEBI meeting: [The Many Ways to Use Anvi’o, a Platform for Microbial ‘Omics](https://www.darkenergybiosphere.org/outputs-resources/virtual-meeting-series/) by Iva Veseli.
+
 ## MAY
 
 *Webinar:* May 25 [FMT Meet-Up](https://deakin.zoom.us/meeting/register/tZctdeivrzMjEtWrMa_YyuIfSr4llPHDy4Gr) by Nádia Amorim from the [AHMRN](https://www.microbiome-research.net/).
