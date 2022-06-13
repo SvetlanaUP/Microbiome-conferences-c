@@ -53,6 +53,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Conference*: June 27-29 [MicrobiomeSupport Final Conference: Paving the Microbiome Way](https://www.eventbrite.co.uk/e/microbiomesupport-final-conference-paving-the-microbiome-way-tickets-228993003237) by EUFIC - the European Food Information Council.
 
+*Conference*: June 21 [UK Biobank Scientific Conference 2022](https://www.eventbrite.co.uk/e/uk-biobank-scientific-conference-2022-tickets-293798016777) by UK Biobank.
+
 🌐 *Conference*: June 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Kenya Honda.
 
 *Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
