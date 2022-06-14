@@ -55,6 +55,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Conference*: June 21 [UK Biobank Scientific Conference 2022](https://www.eventbrite.co.uk/e/uk-biobank-scientific-conference-2022-tickets-293798016777) by UK Biobank.
 
+*Webinar*: June 21 [MEWE Webinar: Microbial Immigration in Engineered Ecosystems](https://www.eventbrite.com/e/mewe-webinar-microbial-immigration-in-engineered-ecosystems-tickets-366044327437) by IWA MEWE.
+
 🌐 *Conference*: June 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Kenya Honda.
 
 *Webinar:* June 15 [EMBARK Webinar](https://antimicrobialresistance.eu/category/webinars/) with Marisa Haenni.
