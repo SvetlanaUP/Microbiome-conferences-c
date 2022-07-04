@@ -51,6 +51,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar*: July 6 [Reference-free and Ecology-based Analysis on High Quality-controlled Data in Human Microbiome Studies](https://rutgers.zoom.us/meeting/register/tJUvduGgqT0sEtDZmPrqfvh_Mp8lsTbzWRYp) discussion initiated by Liping Zhao.
 
+*Webinar*: July 5 - September 27 [OSU Microbiome Informatics Webinar Series - Summer 2022](https://osu.zoom.us/webinar/register/WN_CWiCJXJ7QRa7pqDVmw3IlQ) on Tuesdays by the [CoMS](https://twitter.com/OSUmicrobiome).
+
 ## JUNE
 
 *Conference*: June 27-29 [MicrobiomeSupport Final Conference: Paving the Microbiome Way](https://www.eventbrite.co.uk/e/microbiomesupport-final-conference-paving-the-microbiome-way-tickets-228993003237) by EUFIC - the European Food Information Council.
