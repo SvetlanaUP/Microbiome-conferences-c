@@ -49,6 +49,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## JULY ⛱️
 
+*Webinar*: July 19 [ABACBS monthly seminar series](https://twitter.com/abacbs/status/1547802690557997057) Anna Trigos: Spatial analysis to dissect the tumour immune microenvironment & Ben Woodcroft: New tools for genome-centric metagenomics
+
 *Webinar*: July 6 [Reference-free and Ecology-based Analysis on High Quality-controlled Data in Human Microbiome Studies](https://rutgers.zoom.us/meeting/register/tJUvduGgqT0sEtDZmPrqfvh_Mp8lsTbzWRYp) discussion initiated by Liping Zhao.
 
 *Webinar*: July 5 - September 27 [OSU Microbiome Informatics Webinar Series - Summer 2022](https://osu.zoom.us/webinar/register/WN_CWiCJXJ7QRa7pqDVmw3IlQ) on Tuesdays by the [CoMS](https://twitter.com/OSUmicrobiome).
