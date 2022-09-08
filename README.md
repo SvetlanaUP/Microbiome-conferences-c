@@ -41,6 +41,14 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 *Webinar*: [Uppsala Antibiotic Center](https://uac.uu.se/calendar/) Recordings available [here](https://www.youtube.com/channel/UCZyPO75CEtHxprQBa8AmEjA).
 
 
+## DECEMBER
+
+*Webinar*: December 7 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
+
+## NOVEMBER 
+
+*Webinar*: November 9 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
+
 ## OCTOBER
 
 *Course+Symposium*: October 12-14 [ISB Virtual Microbiome Series](https://isbscience.org/microbiome2022/)
@@ -49,11 +57,15 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: October [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Elisabeth Bik.
 
+*Webinar*: October 5 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
+
 ## SEPTEMBER
 
 *Course*: September 22-23 [Keep your Project on Track! Plan for Efficient and Reusable Research](https://www.denbi.de/training/1466-keep-your-project-on-track-plan-for-efficient-and-reusable-research) by deNBI.
 
 *Conference*: September 21-23 [Genome Informatics 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20220921/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
+
+*Webinar*: September 14 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
 
 🌐 *Conference*: September 13 & 14/15 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Eric Pamer.
 
