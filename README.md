@@ -41,6 +41,10 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 *Webinar*: [Uppsala Antibiotic Center](https://uac.uu.se/calendar/) Recordings available [here](https://www.youtube.com/channel/UCZyPO75CEtHxprQBa8AmEjA).
 
 
+## OCTOBER
+
+*Webinar*: October 3 [London Microbiome Meeting 2022 Online](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2022-online-tickets-395868030937) by Department of Twin Research & Department of Nutritional Sciences at KCL.
+
 ## SEPTEMBER
 
 *Conference*: September 21-23 [Genome Informatics 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20220921/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
