@@ -47,11 +47,15 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar*: October 3 [London Microbiome Meeting 2022 Online](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2022-online-tickets-395868030937) by Department of Twin Research & Department of Nutritional Sciences at KCL.
 
+🌐 *Conference*: October [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Elisabeth Bik.
+
 ## SEPTEMBER
 
 *Course*: September 22-23 [Keep your Project on Track! Plan for Efficient and Reusable Research](https://www.denbi.de/training/1466-keep-your-project-on-track-plan-for-efficient-and-reusable-research) by deNBI.
 
 *Conference*: September 21-23 [Genome Informatics 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20220921/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
+
+🌐 *Conference*: September 13 & 14/15 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Eric Pamer.
 
 ## AUGUST ⛱️
 
