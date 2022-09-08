@@ -49,6 +49,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## SEPTEMBER
 
+*Course*: September 22-23 [Keep your Project on Track! Plan for Efficient and Reusable Research](https://www.denbi.de/training/1466-keep-your-project-on-track-plan-for-efficient-and-reusable-research) by deNBI.
+
 *Conference*: September 21-23 [Genome Informatics 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20220921/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
 
 ## AUGUST ⛱️
