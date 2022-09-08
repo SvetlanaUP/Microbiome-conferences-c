@@ -43,6 +43,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## OCTOBER
 
+*Course+Symposium*: October 12-14 [ISB Virtual Microbiome Series](https://isbscience.org/microbiome2022/)
+
 *Webinar*: October 3 [London Microbiome Meeting 2022 Online](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2022-online-tickets-395868030937) by Department of Twin Research & Department of Nutritional Sciences at KCL.
 
 ## SEPTEMBER
