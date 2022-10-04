@@ -57,7 +57,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar*: October 3 [London Microbiome Meeting 2022 Online](https://www.eventbrite.co.uk/e/london-microbiome-meeting-2022-online-tickets-395868030937) by Department of Twin Research & Department of Nutritional Sciences at KCL.
 
-🌐 *Conference*: October [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Elisabeth Bik.
+🌐 *Conference*: October 17/18 & 19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Elisabeth Bik.
 
 *Webinar*: October 5 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
 
