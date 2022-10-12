@@ -47,6 +47,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## NOVEMBER 
 
+*Conference*: November 28 [COMBINE Symposium 2022](https://twitter.com/combine_au/status/1580004751571181569)
+
 *Conference*: November 17-18 [9th Theodor Escherich Symposium on medical microbiome research](https://www.medunigraz.at/tes)
 
 *Webinar*: November 9 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
