@@ -43,6 +43,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## DECEMBER
 
+🌐 *Conference*: December 13/14 & 15 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Amy D. Willis.
+
 *Webinar*: December 7 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
 
 ## NOVEMBER 
@@ -54,6 +56,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 *Conference*: November 17-18 [9th Theodor Escherich Symposium on medical microbiome research](https://www.medunigraz.at/tes)
 
 *Webinar*: November 9 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
+
+🌐 *Conference*: November 8 & 9/10 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Sarah Lebeer.
 
 ## OCTOBER
 
