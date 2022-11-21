@@ -45,6 +45,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: December 13/14 & 14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Amy D. Willis.
 
+*Conference*: December 8 [Microbiome Modulation of the Brain and other Biological Systems](https://www.eventbrite.com.au/e/microbiome-modulation-of-the-brain-and-other-biological-systems-tickets-396426270647) by The Australasian Human Microbiome Research Network.
+
 *Webinar*: December 7 [EMBARK webinar](https://antimicrobialresistance.eu/2022/09/02/embark-fall-webinars-2022/). 
 
 ## NOVEMBER 
