@@ -22,6 +22,34 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
 
+## 2023
+
+## Regular
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
+
+## MAY
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+*Conference*: May 3–5 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20230503/) Wellcome Genome Campus, UK and Virtual.
+
+## APRIL
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## MARCH
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## FEBRUARY
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## JANUARY
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 ## 2022
 
 ## Regular
