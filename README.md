@@ -32,6 +32,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Conference*: May 3-5 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20230503/) by Wellcome Genome Campus, UK and Virtual. Registration from LMIC countries is FREE!
+
 *Conference*: May 3–5 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20230503/) Wellcome Genome Campus, UK and Virtual.
 
 ## APRIL
