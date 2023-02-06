@@ -44,6 +44,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## FEBRUARY
 
+*Webinar*: February 22 [Microbiome interactions with food and links to health](https://www.eventbrite.com/e/microbiome-interactions-with-food-and-links-to-health-tickets-532059954647) by IFT British Section.
+
 *Webinar*: February 22 [The Bioinformatics seminar: SemiBin: using self-supervised deep learning for better metagenomics binning](http://bioinfo.matf.bg.ac.rs/home/) by Luis Pedro Coelho; organized by the Serbian Society for Bioinformatics and Computational Biology and Faculty of Mathematics, University of Belgrade.
 
 🌐 *Conference*: February 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
