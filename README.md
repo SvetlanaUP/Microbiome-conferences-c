@@ -50,6 +50,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: February 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Symposium*: February 9 [Therapeutic Promise of the Microbiome: The Dr. Paul Janssen Award Symposium](https://events.nyas.org/event/a4c68716-772e-4be3-88a3-662a18563f2c/summary)
+
 ## JANUARY
 
 🌐 *Conference*: January 16 & 17/18 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
