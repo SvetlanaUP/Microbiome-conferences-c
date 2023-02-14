@@ -48,6 +48,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Webinar*: February 22 [The Bioinformatics seminar: SemiBin: using self-supervised deep learning for better metagenomics binning](http://bioinfo.matf.bg.ac.rs/home/) by Luis Pedro Coelho; organized by the Serbian Society for Bioinformatics and Computational Biology and Faculty of Mathematics, University of Belgrade.
 
+*Webinar*: February 16 [Mind, Mood & Microbes Expert Q&A](https://www.mindmoodmicrobes.org/mmm-expert-qa)
+
 🌐 *Conference*: February 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Symposium*: February 9 [Therapeutic Promise of the Microbiome: The Dr. Paul Janssen Award Symposium](https://events.nyas.org/event/a4c68716-772e-4be3-88a3-662a18563f2c/summary)
