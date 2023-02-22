@@ -38,6 +38,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Symposium*: April 7 [[Hybrid] Annual MIT Microbiome Symposium](https://www.eventbrite.com/e/hybrid-annual-mit-microbiome-symposium-tickets-539206119017)
+
 ## MARCH
 
 🌐 *Conference*: March 14 & 15/16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
