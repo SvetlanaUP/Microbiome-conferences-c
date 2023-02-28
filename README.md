@@ -44,6 +44,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: March 14 & 15/16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: March 1 [Microbes and Social Equity working group seminar](https://sueishaqlab.org/2023/02/27/mse-seminar-this-wednesday-on-tbd-by-dr-sarah-lebeer/): "The vaginal microbiome: key for women’s health & healthy newborns" by Dr. Sarah Lebeer
+
 ## FEBRUARY
 
 *Webinar*: February 22 [Microbiome interactions with food and links to health](https://www.eventbrite.com/e/microbiome-interactions-with-food-and-links-to-health-tickets-532059954647) by IFT British Section.
