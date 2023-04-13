@@ -36,7 +36,10 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## APRIL
 
-🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+*Webinar*: April 10 [SymbNET seminar](https://symbnet.eu/agenda/seminar-series-20-april/
+) on chemical-microbiome interactions and cell cycle regulation in Staphylococcus aureus 
+
+🌐 *Conference*: April 18/19 & 20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Symposium*: April 7 [[Hybrid] Annual MIT Microbiome Symposium](https://www.eventbrite.com/e/hybrid-annual-mit-microbiome-symposium-tickets-539206119017)
 
