@@ -28,6 +28,11 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
 
+## JUNE
+
+*Conference*: June 19 [6th AMICI Symposium](https://microbiome.at/de/content/6th-amici-symposium) by Austrian Microbiome Initiative.
+
+
 ## MAY
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
