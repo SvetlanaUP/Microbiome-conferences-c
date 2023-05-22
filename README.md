@@ -30,6 +30,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## JUNE
 
+🌐 *Conference*: June 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Ami Bhatt.
+
 *Conference*: June 19 [6th AMICI Symposium](https://microbiome.at/de/content/6th-amici-symposium) by Austrian Microbiome Initiative.
 
 
