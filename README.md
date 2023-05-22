@@ -37,6 +37,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## MAY
 
+Webinar: May 31 [MASTERing food chain microbiomes](https://us02web.zoom.us/webinar/register/WN_XQRQ0LghRySG8oHkceDMOA#/registration)
+
 Course: May 22-26 [GTN Smörgåsbord training course](https://gallantries.github.io/video-library/events/smorgasbord3/) 
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
