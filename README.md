@@ -34,8 +34,6 @@ Webinar: June 27 [Microbes and Food - World Microbiome Day](https://www.eventbri
 
 🌐 *Conference*: June 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Ami Bhatt.
 
-Webinar: June 27 [Microbes and Food - World Microbiome Day](https://www.eventbrite.com/e/microbes-and-food-world-microbiome-day-tickets-646820546667) by the Australasian Human Microbiome Research Network.
-
 *Conference*: June 19 [6th AMICI Symposium](https://microbiome.at/de/content/6th-amici-symposium) by Austrian Microbiome Initiative.
 
 
