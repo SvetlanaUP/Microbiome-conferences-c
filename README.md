@@ -30,6 +30,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## JUNE
 
+Webinar: June 27 [World Microbiome Day June 27th](https://us02web.zoom.us/webinar/register/WN_7pjmms60QrGDLjQ_0GwBzg#/registration)
+
 Webinar: June 27 [Microbes and Food - World Microbiome Day](https://www.eventbrite.com/e/microbes-and-food-world-microbiome-day-tickets-646820546667) by the Australasian Human Microbiome Research Network.
 
 🌐 *Conference*: June 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Ami Bhatt.
