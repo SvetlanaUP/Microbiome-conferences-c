@@ -28,6 +28,16 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
 
+## OCTOBER
+
+🌐 *Conference*: October 16/17 & 18 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## SEPTEMBER
+
+🌐 *Conference*: September 19 &- 20/21 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+*Symposium*: September 11-12 [2nd Young AMICI Symposium](https://microbiome.at/de/content/2nd-young-amici-symposium)
+
 ## JUNE
 
 Webinar: June 27 [World Microbiome Day 2023 Celebration: Transforming healthier food for a healthier planet](https://us02web.zoom.us/webinar/register/WN_7pjmms60QrGDLjQ_0GwBzg#/registration)
