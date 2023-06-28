@@ -34,7 +34,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## SEPTEMBER
 
-🌐 *Conference*: September 19 &- 20/21 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: September 19 & 20/21 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Symposium*: September 11-12 [2nd Young AMICI Symposium](https://microbiome.at/de/content/2nd-young-amici-symposium)
 
