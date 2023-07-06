@@ -21,6 +21,11 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
+## 2024
+
+## JANUARY
+
+*Symposium*: January 18-19 [10th Theodor Escherich Symposium on microbiome research](https://www.medunigraz.at/tes) Medizinische Universität Graz (Austria).
 
 ## 2023
 
