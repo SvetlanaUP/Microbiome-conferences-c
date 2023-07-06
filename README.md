@@ -48,9 +48,9 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## JUNE
 
-Webinar: June 27 [World Microbiome Day 2023 Celebration: Transforming healthier food for a healthier planet](https://us02web.zoom.us/webinar/register/WN_7pjmms60QrGDLjQ_0GwBzg#/registration)
+_Webinar_: June 27 [World Microbiome Day 2023 Celebration: Transforming healthier food for a healthier planet](https://us02web.zoom.us/webinar/register/WN_7pjmms60QrGDLjQ_0GwBzg#/registration)
 
-Webinar: June 27 [Microbes and Food - World Microbiome Day](https://www.eventbrite.com/e/microbes-and-food-world-microbiome-day-tickets-646820546667) by the Australasian Human Microbiome Research Network.
+_Webinar_: June 27 [Microbes and Food - World Microbiome Day](https://www.eventbrite.com/e/microbes-and-food-world-microbiome-day-tickets-646820546667) by the Australasian Human Microbiome Research Network.
 
 🌐 *Conference*: June 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) with Ami Bhatt.
 
@@ -59,9 +59,9 @@ Webinar: June 27 [Microbes and Food - World Microbiome Day](https://www.eventbri
 
 ## MAY
 
-Webinar: May 31 [MASTERing food chain microbiomes](https://us02web.zoom.us/webinar/register/WN_XQRQ0LghRySG8oHkceDMOA#/registration)
+_Webinar_: May 31 [MASTERing food chain microbiomes](https://us02web.zoom.us/webinar/register/WN_XQRQ0LghRySG8oHkceDMOA#/registration)
 
-Course: May 22-26 [GTN Smörgåsbord training course](https://gallantries.github.io/video-library/events/smorgasbord3/) 
+_Course_: May 22-26 [GTN Smörgåsbord training course](https://gallantries.github.io/video-library/events/smorgasbord3/) 
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
@@ -69,8 +69,7 @@ Course: May 22-26 [GTN Smörgåsbord training course](https://gallantries.github
 
 ## APRIL
 
-*Webinar*: April 10 [SymbNET seminar](https://symbnet.eu/agenda/seminar-series-20-april/
-) on chemical-microbiome interactions and cell cycle regulation in Staphylococcus aureus 
+*Webinar*: April 10 [SymbNET seminar](https://symbnet.eu/agenda/seminar-series-20-april/) on chemical-microbiome interactions and cell cycle regulation in Staphylococcus aureus 
 
 🌐 *Conference*: April 18/19 & 20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
