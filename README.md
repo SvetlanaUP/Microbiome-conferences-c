@@ -30,6 +30,9 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## OCTOBER
 
+*Symposium*: October 19 [New Frontiers in Modelling Ecology and Evolution of Microbiomes](https://sites.google.com/view/fmeem2023) organised by Xiu Jia and Marco Mauri (Friedrich Schiller University Jena)
+
+
 🌐 *Conference*: October 16/17 & 18 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## SEPTEMBER
