@@ -42,6 +42,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## SEPTEMBER
 
+_Webinar_: September 27 [Microbiome Data Congress Pre-Conference Webinar](https://us02web.zoom.us/webinar/register/WN_yI1DYjgpTGqv_AzEVFBOpg#/registration)
+
 🌐 *Conference*: September 19 & 20/21 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Symposium*: September 11-12 [2nd Young AMICI Symposium](https://microbiome.at/de/content/2nd-young-amici-symposium)
