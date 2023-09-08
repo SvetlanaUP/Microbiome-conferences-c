@@ -46,6 +46,8 @@ _Webinar_: September 27 [Microbiome Data Congress Pre-Conference Webinar](https:
 
 🌐 *Conference*: September 19 & 20/21 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+_Webinar_: September 16 [BISMiS Live - 28th Session with Giovanna Felis](https://us02web.zoom.us/webinar/register/WN_HQJcYrYSQBCweoIs6eAInQ#/registration): Taxonomic revaluation of the “old” genus Lactobacillus: a boost for research and innovation
+
 *Symposium*: September 11-12 [2nd Young AMICI Symposium](https://microbiome.at/de/content/2nd-young-amici-symposium)
 
 ## JUNE
