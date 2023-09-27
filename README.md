@@ -35,6 +35,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## OCTOBER
 
+*Conference*: October 26-27 [2nd Microbiome PT Summit](https://biodata.pt/microbiome) 
+
 *Symposium*: October 19 [New Frontiers in Modelling Ecology and Evolution of Microbiomes](https://sites.google.com/view/fmeem2023) organised by Xiu Jia and Marco Mauri (Friedrich Schiller University Jena)
 
 
