@@ -51,6 +51,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 *Conference*: October 26-27 [2nd Microbiome PT Summit](https://biodata.pt/microbiome) 
 
+*Webinar*: October 24 [SMD seminar: Dr. Christian Jenul (University of Leicester, UK)](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety/1031960) by Slovenian Microbiology Society
+
 *Symposium*: October 19 [New Frontiers in Modelling Ecology and Evolution of Microbiomes](https://sites.google.com/view/fmeem2023) organised by Xiu Jia and Marco Mauri (Friedrich Schiller University Jena)
 
 
