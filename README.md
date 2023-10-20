@@ -50,7 +50,7 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 ## NOVEMBER
 
-🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: November 14 & 15/16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## OCTOBER
 
