@@ -17,8 +17,7 @@ conferences/meetings/workshops](https://github.com/riyuebao/virtual-conferences-
 * a list of [funding schemes and opportunities for postdoctoral fellowships](https://asntech.github.io/postdoc-funding-schemes/) by #eLifeAmbassadors @khanaziz84 et al.
 * [PhD tips – How to ask a question after a seminar](http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar) by [Elisa Granato](https://twitter.com/Prokaryota)
 
-and I wrote about the roles of [**Twitter in my academic life**](http://big-data-biology.org/blog/2021/03/29/Twitter_in_an_academic_life/)
-
+and I wrote about the roles of [Twitter in my academic life](http://big-data-biology.org/blog/2021/03/29/Twitter_in_an_academic_life/) & [how remote conferencing broadened my horizons and opened career paths](https://www.nature.com/articles/d41586-023-02507-7).
 
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
