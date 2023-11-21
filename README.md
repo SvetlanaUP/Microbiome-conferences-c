@@ -48,6 +48,8 @@ and I wrote about the roles of [**Twitter in my academic life**](http://big-data
 
 🌐 *Conference*: December 18/19 & 20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: December 7 [mSystems Thinking Series: Microbes and Sexual Health](https://asm.org/Webinars/mSystems-Webinar-Series)
+
 ## NOVEMBER
 
 *Webinar*: November 22 [Episode 2: Navigating the Terrain of Infant Health: Unravelling the Gut Microbiome's Role and Roadblocks](https://actionagainststunting.org/connected-dialogue-series-episode-2-navigating-the-terrain-of-infant-health-unravelling-the-gut-microbiomes-role-and-roadblocks/) by UKRI GCRF Action against Stunting Hub.
