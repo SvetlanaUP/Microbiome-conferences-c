@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: December 7 [mSystems Thinking Series: Microbes and Sexual Health](https://asm.org/Webinars/mSystems-Webinar-Series)
 
+*Webinar*: December 1 [Population Dynamics Seminars](https://adras81.bitbucket.io/) with Sylvie Estrela (Stanford University).
+
 ## NOVEMBER
 
 *Webinar*: November 22 [Episode 2: Navigating the Terrain of Infant Health: Unravelling the Gut Microbiome's Role and Roadblocks](https://actionagainststunting.org/connected-dialogue-series-episode-2-navigating-the-terrain-of-infant-health-unravelling-the-gut-microbiomes-role-and-roadblocks/) by UKRI GCRF Action against Stunting Hub.
