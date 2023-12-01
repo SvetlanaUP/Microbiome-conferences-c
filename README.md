@@ -47,6 +47,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: December 18/19 & 20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Symposium*: December 8 [Understanding and therapeutically targeting the microbiota-gut-brain-axis](https://www.eventbrite.com/e/understanding-and-therapeutically-targeting-the-microbiota-gut-brain-axis-tickets-676430019397) by Australasian Human Microbiome Research Network
+
 *Webinar*: December 7 [mSystems Thinking Series: Microbes and Sexual Health](https://asm.org/Webinars/mSystems-Webinar-Series)
 
 *Webinar*: December 1 [Population Dynamics Seminars](https://adras81.bitbucket.io/) with Sylvie Estrela (Stanford University).
