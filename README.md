@@ -37,6 +37,9 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Symposium*: January 18-19 [10th Theodor Escherich Symposium on microbiome research](https://www.medunigraz.at/tes) Medizinische Universität Graz (Austria).
 
+🌐 *Conference*: January 9 & 10/11 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+
 ## 2023
 
 ## Regular
