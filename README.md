@@ -39,6 +39,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: January 9 & 10/11 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: January 10 [Green ERA-Hub Breakfast club series 6](https://us02web.zoom.us/webinar/register/WN_u2JcyeJ8RCKG2ozqaWCIEg#/registration) This is a series of morning webinars targeted towards early career researchers interested in topics regarding Biotechnology to advance Sustainable Solutions for Bioeconomy.
+
 
 ## 2023
 
