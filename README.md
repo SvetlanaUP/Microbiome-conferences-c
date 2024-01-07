@@ -23,6 +23,14 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## 2024
 
+## Regular
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
+
+*Webinar*: [Klebsiella Seminar Series 2024](https://sites.google.com/view/klebclub/home)
+
+*Webinar*: [Slovenian Microbiological Society & Slovenian Microbiome Network seminars](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety)
+
 ## MARCH
 
 🌐 *Conference*: March 20 & 21/22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
