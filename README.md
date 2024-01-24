@@ -45,6 +45,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Conference*: February 14–16 [Microbiome Interactions in Health and Disease](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-20240214/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
 
+*Conference*: February 6–7 [Antimicrobial Chemotherapy Conference](https://acc-conference.com/) organised by GARDP and BSAC.
+
 ## JANUARY
 
 *Symposium*: January 18-19 [10th Theodor Escherich Symposium on microbiome research](https://www.medunigraz.at/tes) Medizinische Universität Graz (Austria).
