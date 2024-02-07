@@ -33,6 +33,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## MARCH
 
+*Webinar*: March 22 [[Hybrid] Annual MIT Microbiome Symposium 2024](https://www.eventbrite.com/e/hybrid-annual-mit-microbiome-symposium-2024-tickets-781640406497)
+
 🌐 *Conference*: March 20 & 21/22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Conference*: March 13–15 [Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies](https://coursesandconferences.wellcomeconnectingscience.org/event/antimicrobial-resistance-genomes-big-data-and-emerging-technologies-20240313/) – Wellcome Genome Campus, UK and Virtual; NOTE:  To encourage more inclusive scientific discussions at our conferences, those living in LMIC (Lower and Middle Income Countries) can register to attend our virtual events for free.  
