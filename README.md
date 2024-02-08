@@ -43,6 +43,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## FEBRUARY
 
+*Conference*: February 29 [Human Microbiome Action - Final Conference](https://www.eventbrite.co.uk/e/human-microbiome-action-final-conference-online-tickets-757825786327)
+
 🌐 *Conference*: February 26/27 & 28 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Conference*: February 14–16 [Microbiome Interactions in Health and Disease](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-20240214/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
