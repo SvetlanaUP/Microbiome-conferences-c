@@ -31,6 +31,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [Slovenian Microbiological Society & Slovenian Microbiome Network seminars](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety)
 
+*Webinar*: February 14 – May 8 [Exploring Microbial Ecosystems](https://www.ebi.ac.uk/training/search-results?query=exploring%20microbial%20ecosystems&domain=ebiweb_training_events&page=1&facets=type:Webinar) EMBL-EBI Training
+
 ## MARCH
 
 *Webinar*: March 22 [[Hybrid] Annual MIT Microbiome Symposium 2024](https://www.eventbrite.com/e/hybrid-annual-mit-microbiome-symposium-2024-tickets-781640406497)
