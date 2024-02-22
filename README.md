@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: February 26/27 & 28 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: February 26 [Microbial “dark oxygen” production: An overlooked process in Earth’s hidden ecosystems](https://twitter.com/MITMbiomeClub/status/1760382728510517434) MIT seminar by Dr Emil Ruff.
+
 *Webinar*: February 14 – May 8 [Exploring Microbial Ecosystems](https://www.ebi.ac.uk/training/search-results?query=exploring%20microbial%20ecosystems&domain=ebiweb_training_events&page=1&facets=type:Webinar) EMBL-EBI Training
 
 *Conference*: February 14–16 [Microbiome Interactions in Health and Disease](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-20240214/) by Wellcome Genome Campus. Note: delegates based in Lower and Middle-Income Countries can register for free.
