@@ -41,7 +41,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## JUNE
 
-🌐 *Conference*: June 11/12 & 13[Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: June 11/12 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## MAY
 
