@@ -35,6 +35,24 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [AHMRN Journal Club](https://docs.google.com/forms/d/15zFb3nxx0wrUq0JU6pI135ZP4Ay8aXHGarZrn9sEXpo/viewform?edit_requested=true) Australasian Human Microbiome Research Network.
 
+## SEPTEMBER
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## JUNE
+
+🌐 *Conference*: June 11/12 & 13[Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## MAY
+
+🌐 *Conference*: May 21 & 22/23 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## APRIL
+
+*Webinar*: April 18 WAME seminar series: [The Microbiome & Conservation](https://twitter.com/stn_wame/status/1772722302406246450) https://aarhusuniversity.zoom.us/j/68868377912
+
+🌐 *Conference*: April 16/17 & 18 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 ## MARCH
 
 *Webinar*: March 22 [[Hybrid] Annual MIT Microbiome Symposium 2024](https://www.eventbrite.com/e/hybrid-annual-mit-microbiome-symposium-2024-tickets-781640406497)
