@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## APRIL
 
+*Course*: April 22-24 [Study of microbial communities in freshwater: from isolation to -omics ](https://www.sus-mirri.it/2024/03/study-of-microbial-communities-in-freshwater-from-isolation-to-omics/) by CNR-IRSA Verbania. 
+
 *Webinar*: April 18 WAME seminar series: [The Microbiome & Conservation](https://twitter.com/stn_wame/status/1772722302406246450) https://aarhusuniversity.zoom.us/j/68868377912
 
 🌐 *Conference*: April 16/17 & 18 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
