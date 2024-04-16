@@ -49,7 +49,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## APRIL
 
-*Webinar*: April 14 [SEARCHER antimicrobial resistance webinar]( https://mdc-berlin.zoom.us/webinar/register/WN_l4zmjaMRTkqeXsgOxe2-3Q): ARG transmission. Speakers: Alvaro San Millan and Uli Klümper.
+*Webinar*: April 24 [SEARCHER antimicrobial resistance webinar]( https://mdc-berlin.zoom.us/webinar/register/WN_l4zmjaMRTkqeXsgOxe2-3Q): ARG transmission. Speakers: Alvaro San Millan and Uli Klümper.
 
 *Course*: April 22-24 [Study of microbial communities in freshwater: from isolation to -omics ](https://www.sus-mirri.it/2024/03/study-of-microbial-communities-in-freshwater-from-isolation-to-omics/) by CNR-IRSA Verbania. 
 
