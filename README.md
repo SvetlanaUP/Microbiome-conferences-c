@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## APRIL
 
+*Webinar*: April 14 [SEARCHER antimicrobial resistance webinar]( https://mdc-berlin.zoom.us/webinar/register/WN_l4zmjaMRTkqeXsgOxe2-3Q): ARG transmission. Speakers: Alvaro San Millan and Uli Klümper.
+
 *Course*: April 22-24 [Study of microbial communities in freshwater: from isolation to -omics ](https://www.sus-mirri.it/2024/03/study-of-microbial-communities-in-freshwater-from-isolation-to-omics/) by CNR-IRSA Verbania. 
 
 *Webinar*: April 18 WAME seminar series: [The Microbiome & Conservation](https://twitter.com/stn_wame/status/1772722302406246450) https://aarhusuniversity.zoom.us/j/68868377912
