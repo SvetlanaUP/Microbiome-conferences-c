@@ -47,6 +47,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: May 21 & 22/23 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: May 16 [FEMS Microbiology Ecology Webinar on Insect-Microbiome Interactions](https://us02web.zoom.us/webinar/register/4917132779655/WN_7G1Mxi9fSaKJO_xz0JHyPA#/registration)
+
 ## APRIL
 
 *Webinar*: April 24 [SEARCHER antimicrobial resistance webinar]( https://mdc-berlin.zoom.us/webinar/register/WN_l4zmjaMRTkqeXsgOxe2-3Q): ARG transmission. Speakers: Alvaro San Millan and Uli Klümper.
