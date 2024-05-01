@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: May 16 [FEMS Microbiology Ecology Webinar on Insect-Microbiome Interactions](https://us02web.zoom.us/webinar/register/4917132779655/WN_7G1Mxi9fSaKJO_xz0JHyPA#/registration)
 
+*Webinar*: May 7 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/event/camille-goemans-on-antibiotics-and-the-gut-microbiome/) Camille Goemans: The impact of antibiotics on the human gut microbiota
+
 ## APRIL
 
 *Webinar*: April 24 [SEARCHER antimicrobial resistance webinar]( https://mdc-berlin.zoom.us/webinar/register/WN_l4zmjaMRTkqeXsgOxe2-3Q): ARG transmission. Speakers: Alvaro San Millan and Uli Klümper.
