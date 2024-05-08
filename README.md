@@ -51,6 +51,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: May 7 [NCCR Microbiomes Seminar Series](https://nccr-microbiomes.ch/event/camille-goemans-on-antibiotics-and-the-gut-microbiome/) Camille Goemans: The impact of antibiotics on the human gut microbiota
 
+_Symposium:_ May 13 [Harvard Chan Microbiome Center Symposium: The Microbiome and Cancer](https://www.hsph.harvard.edu/biostatistics/2024/04/2024-harvard-chan-microbiome-center-symposium-the-microbiome-and-cancer-register-now/)
+
 ## APRIL
 
 *Webinar*: April 24 [SEARCHER antimicrobial resistance webinar]( https://mdc-berlin.zoom.us/webinar/register/WN_l4zmjaMRTkqeXsgOxe2-3Q): ARG transmission. Speakers: Alvaro San Millan and Uli Klümper.
