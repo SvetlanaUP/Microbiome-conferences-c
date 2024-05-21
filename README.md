@@ -45,6 +45,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## MAY
 
+*Webinar*: May 23 [SMD online seminar 2024: dr. Maria Zimmermann](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety/1240657)
+
 🌐 *Conference*: May 21 & 22/23 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: May 16 [FEMS Microbiology Ecology Webinar on Insect-Microbiome Interactions](https://us02web.zoom.us/webinar/register/4917132779655/WN_7G1Mxi9fSaKJO_xz0JHyPA#/registration)
