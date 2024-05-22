@@ -41,6 +41,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## JUNE
 
+*Event*: June 27 [World Microbiome Day - AHMRN Researcher Speed Dating](https://monash.zoom.us/meeting/register/tZcvf-uurDkqE9bd7WNgXnj3lkPSVvcwLH0k#/registration)
+
 🌐 *Conference*: June 11/12 & 13 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## MAY
