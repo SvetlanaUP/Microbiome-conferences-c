@@ -35,6 +35,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [AHMRN Journal Club](https://docs.google.com/forms/d/15zFb3nxx0wrUq0JU6pI135ZP4Ay8aXHGarZrn9sEXpo/viewform?edit_requested=true) Australasian Human Microbiome Research Network.
 
+*Meetup*: [Decentralized Science NYC](https://www.desci.nyc/) A monthly NYC meetup for science enthusiasts to learn, share projects, and socialize.
+
 ## SEPTEMBER
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
