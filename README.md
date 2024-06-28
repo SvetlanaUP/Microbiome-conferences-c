@@ -37,9 +37,14 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Meetup*: [Decentralized Science NYC](https://www.desci.nyc/) A monthly NYC meetup for science enthusiasts to learn, share projects, and socialize.
 
+
 ## SEPTEMBER
 
 🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## AUGUST
+
+*Meetup*: August 1 [Decentralized Science NYC](https://www.desci.nyc/) "Wrecking My Gut For Fun and Science" with Scott Hickle of Throne Science.
 
 ## JUNE
 
