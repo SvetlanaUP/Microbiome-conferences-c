@@ -40,11 +40,15 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## SEPTEMBER
 
-🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: September 17 & 18/19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+*Conference*: September 16 [African Microbiome Day 3.0: Showcasing microbiome research in Africa – Exploring Health, Ecosystems and Innovations](https://h3africa.org/index.php/african-microbiome-day-30/#overview)
 
 ## AUGUST
 
 *Meetup*: August 1 [Decentralized Science NYC](https://www.desci.nyc/) "Wrecking My Gut For Fun and Science" with Scott Hickle of Throne Science.
+
+## JULY
 
 ## JUNE
 
