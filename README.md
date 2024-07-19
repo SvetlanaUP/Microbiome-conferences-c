@@ -37,7 +37,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Meetup*: [Decentralized Science NYC](https://www.desci.nyc/) A monthly NYC meetup for science enthusiasts to learn, share projects, and socialize.
 
-*Webinar*: [BISMiS Live](https://www.bismis.net/index6702.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
+*Webinar*: [BISMiS Live]([https://www.bismis.net/index6702.html](https://bismis.net/bismislive.html)) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
 
 
 ## SEPTEMBER
