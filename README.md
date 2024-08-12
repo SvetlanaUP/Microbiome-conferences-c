@@ -48,6 +48,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Hackathon*: September 11-13 [2. NFDI4Microbiota Knowledge Base Content & Coding Sprint](https://pretix.eu/n4m/2KBsprint/) 
 
+*Conference*: September 10-11 [Breaking Barriers for Gender and Health Equity Through Research](https://natureconferences.streamgo.live/breaking-barriers-2024/register?sf274201270=1) by Nature.
+
 ## AUGUST
 
 *Meetup*: August 1 [Decentralized Science NYC](https://www.desci.nyc/) "Wrecking My Gut For Fun and Science" with Scott Hickle of Throne Science.
