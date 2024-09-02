@@ -40,6 +40,10 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 *Webinar*: [BISMiS Live](https://bismis.net/bismislive.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
 
 
+## OCTOBER
+
+*Conference*: October 1-2 [Unlocking Africa's missing microbiomes](https://uctcmc.eventsair.com/microbiomes-in-health-and-disease/online-reg-form/Site/Register)
+
 ## SEPTEMBER
 
 🌐 *Conference*: September 17 & 18/19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
