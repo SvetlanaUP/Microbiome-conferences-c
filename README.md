@@ -46,6 +46,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## SEPTEMBER
 
+*Webinar*: September 24 [APBioNet Talks: Finding Antimicrobial peptides in the global microbiome using machine learning](https://apbtalks.apbionet.org/event/finding-antimicrobial-peptides-in-the-global-microbiome-using-machine-learning/) by Luis Pedro Coelho.
+
 *Webinar*: September 18 [SN Oncology Webinar Series: The microbiome in cancer immunotherapy](https://cassyni.com/events/FfJmtNoEbexsirDkR9sKfB)
 
 🌐 *Conference*: September 17 & 18/19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
