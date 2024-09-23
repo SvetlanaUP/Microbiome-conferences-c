@@ -42,6 +42,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## OCTOBER
 
+*Webinar*: October 17 [Microbiome Data Webinar](https://static1.squarespace.com/static/5e86659ac2cc3928b1dbe2f7/t/66ed7fdf524a6f6c164fc75d/1726840802133/MDC_2024_Program.pdf) Registration [here](https://us02web.zoom.us/webinar/register/WN_NuB8z-LiRNWDAutPwUGlPQ#/registration)
+
 *Conference*: October 1-2 [Unlocking Africa's missing microbiomes](https://uctcmc.eventsair.com/microbiomes-in-health-and-disease/online-reg-form/Site/Register)
 
 ## SEPTEMBER
