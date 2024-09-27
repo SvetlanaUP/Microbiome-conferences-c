@@ -57,7 +57,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: October 7/8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
-*Conference*: October 1-2 [Unlocking Africa's missing microbiomes](https://uctcmc.eventsair.com/microbiomes-in-health-and-disease/online-reg-form/Site/Register)
+*Conference*: October 1-2 [African Microbiomes in Health and Disease Symposium](https://vmrc4africa.org/register/)
 
 ## SEPTEMBER
 
