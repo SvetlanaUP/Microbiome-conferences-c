@@ -55,6 +55,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Course and Symposium*: October 16-18 [ISB Virtual Microbiome Series/A gut feeling: Microbes and their impacts on our minds](https://isbscience.org/microbiome2024/) 
 
+*Webinar*: October 15 [EMBARK Final Results Webinar](https://mdc-berlin.zoom.us/meeting/register/u5MvdOygqD0uG9B7MywO89sFiS1WHLHj7D0N#/registration) by JPIAMR funded program to search emerging Antimicrobial Resistance through monitoring the environmental resistome.
+
 🌐 *Conference*: October 7/8 & 9 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Conference*: October 1-2 [African Microbiomes in Health and Disease Symposium](https://vmrc4africa.org/register/)
