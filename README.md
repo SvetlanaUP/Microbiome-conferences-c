@@ -49,7 +49,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: November 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
-*Webinar*: November 11 [SMD online seminar 2024: dr. Petra Hribovsek (UIB, Norway)](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety/1448871) by Slovenian Microbiological Society.
+*Webinar*: November 7 [SMD online seminar 2024: dr. Petra Hribovsek (UIB, Norway)](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety/1448871) by Slovenian Microbiological Society.
 
 *Webinar*: November 6 [Meta-GP Symposium](https://www.eventbrite.com.au/e/meta-gp-symposium-tickets-1023069306837) a hybrid event by the Meta-GP Program: share progress updates, discuss challenges associated with metagenomics, and gather to network across sites.
 
