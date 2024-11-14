@@ -51,6 +51,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: November 20 [SEARCHER webinar: ARG Transmission](https://mdc-berlin.zoom.us/meeting/register/u5EvdOqrrTssGtxCFE9gojHM1acotzPIA589#/registration)
 
+*Conference*: November 19-21 [Future of the Microbiome: 2024 Winter Summit](https://futureofmicrobiome.com/winter-summit-2024/)
+
 🌐 *Conference*: November 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: November 7 [SMD online seminar 2024: dr. Petra Hribovsek (UIB, Norway)](https://www.tickettailor.com/events/slovenianmicrobiologicalsociety/1448871) by Slovenian Microbiological Society.
