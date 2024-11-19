@@ -47,7 +47,11 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## NOVEMBER
 
+*Webinar*: November 29 [Population Dynamics Virtual Seminars: The wisdom of the crowd: Watching microbial collectives (re)shape themselves by 	Sujit S. Datta](https://sites.google.com/view/popdyn/)
+
 *Webinar*: November 26 [AMI Webinar: connecting, inspiring and advocating for LGBTQIA+ researchers in microbiology](https://appliedmicrobiology.org/ems-event-calendar/ami-webinar-connecting-inspiring-and-advocating-for-lgbtqia-researchers-in-microbiology.html)
+
+*Webinar*: November 22	[Population Dynamics Virtual Seminars: How bacteria control self-attraction by Berenike Maier](https://sites.google.com/view/popdyn/)	
 
 *Webinar*: November 22 [FEMS Microbiology Ecology Webinar on Microbial Impacts of Climate Change](https://us02web.zoom.us/webinar/register/8317301953906/WN_woxPSY1ORYSfpE25iErBJg#/registration)
 
