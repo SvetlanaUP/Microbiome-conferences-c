@@ -39,6 +39,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [BISMiS Live](https://bismis.net/bismislive.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
 
+*Webinar*: [Population Dynamics Virtual Seminars](https://sites.google.com/view/popdyn/) Recordings available [here](https://www.youtube.com/channel/UC3dC741XfoZ6UmLqrllF5-A)
+
 ## DECEMBER
 
 🌐 *Conference*: December 3/4 & 5 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
