@@ -43,6 +43,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## DECEMBER
 
+*Webinar*: December 11 [New ISAPP Expert Recommendation: Scientific Criteria for Classifying Prebiotics](https://us02web.zoom.us/webinar/register/WN_hEwA0JiDR1WT0VX1wZZ9uA#/registration)
+
 🌐 *Conference*: December 3/4 & 5 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: December 4 [EMBARK WEBINAR final conclusions](https://mdc-berlin.zoom.us/rest/meeting/registrant/u5Mqf-2sqjkuGdNMYpswvas2oaWSKi3TeDH_/info?tk=wmzgnLKWBjDK-LSUxC9q-Q4O2uCbBFheLzybE4H8wl6z6Lp6_HkDP1s.E-UfQXbLgCleA3r0&ac=approved&timezone_id=Europe/Belgrade#/edit) by JPIAMR funded program to search emerging Antimicrobial Resistance through monitoring the environmental resistome.
