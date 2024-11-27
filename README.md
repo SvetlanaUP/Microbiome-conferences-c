@@ -43,6 +43,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## DECEMBER
 
+*Webinar*: December 11 [SEARCHER webinar: ARG Prediction](https://mdc-berlin.zoom.us/meeting/register/u5EtdOurqDIjE9Bf8CAiV7rO4ecxTb0JKxcR#/registration)
+
 *Webinar*: December 11 [New ISAPP Expert Recommendation: Scientific Criteria for Classifying Prebiotics](https://us02web.zoom.us/webinar/register/WN_hEwA0JiDR1WT0VX1wZZ9uA#/registration)
 
 🌐 *Conference*: December 3/4 & 5 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
