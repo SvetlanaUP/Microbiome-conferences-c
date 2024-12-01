@@ -21,6 +21,14 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
+
+## 2025
+
+## May
+
+*Conference*: May 21-13 (Applied Bioinformatics & Public Health Microbiology)[https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/]
+
+
 ## 2024
 
 ## Regular
