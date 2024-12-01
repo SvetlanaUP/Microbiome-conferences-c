@@ -26,7 +26,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## May
 
-*Conference*: May 21-13 (Applied Bioinformatics & Public Health Microbiology)[https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/]
+*Conference*: May 21-23 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/)
 
 
 ## 2024
