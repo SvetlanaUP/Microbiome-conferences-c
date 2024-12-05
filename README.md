@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [Population Dynamics Virtual Seminars](https://sites.google.com/view/popdyn/) Recordings available [here](https://www.youtube.com/channel/UC3dC741XfoZ6UmLqrllF5-A)
 
+*Webinar*: [BIRBI Bioinformatics Seminar](http://bioinfo.matf.bg.ac.rs/home/)
+
 ## DECEMBER
 
 *Webinar*: December 11 [BIRBI Bioinformatics Seminar: A bioinformatics strategy for the discovery of host-based biomarkers from human cell-free DNA in blood plasma](http://bioinfo.matf.bg.ac.rs/home/) by Alessandra Vittorini Orgeas.
