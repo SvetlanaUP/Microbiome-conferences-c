@@ -28,6 +28,10 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Conference*: May 21-23 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/)
 
+## January
+
+🌐 *Conference*: January 21 & 22/23 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 
 ## 2024
 
