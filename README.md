@@ -24,6 +24,12 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## 2025
 
+## Regular
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
+
+*Webinar*: [2025 Senior Vice Chancellor’s Research Seminar Series](https://www.health.pitt.edu/news/pitt-faculty-members-selected-2025-senior-vice-chancellors-research-seminar-series) This annual lecture series, also known as the 12@12 series, focuses on research by young investigators in the biomedical sciences.
+
 ## May
 
 *Conference*: May 21-23 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/)
