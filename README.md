@@ -30,7 +30,15 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [2025 Senior Vice Chancellor’s Research Seminar Series](https://www.health.pitt.edu/news/pitt-faculty-members-selected-2025-senior-vice-chancellors-research-seminar-series) This annual lecture series, also known as the 12@12 series, focuses on research by young investigators in the biomedical sciences.
 
+*Webinar*: [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
+
+## June
+
+*Webinar*: June 25 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
+
 ## May
+
+*Webinar*: May 28 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
 *Conference*: May 21-23 [Applied Bioinformatics & Public Health Microbiology](https://coursesandconferences.wellcomeconnectingscience.org/event/applied-bioinformatics-public-health-microbiology-20250521/)
 
@@ -42,17 +50,25 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## April
 
+*Webinar*: April 30 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
+
 🌐 *Conference*: April TBD [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## March
+
+*Webinar*: March 26 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
 🌐 *Conference*: March 18 & 19/20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## February
 
+*Webinar*: February 26 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
+
 🌐 *Conference*: February 17/18 & 19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## January
+
+*Webinar*: January 29 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
 🌐 *Conference*: January 21 & 22/23 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
