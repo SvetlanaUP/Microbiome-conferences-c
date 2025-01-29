@@ -38,6 +38,20 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: May 16 [2025 Senior Vice Chancellor’s Research Seminar - Eldin Jašarević: Microbial guardians of female fertility](https://calendar.pitt.edu/event/2025-senior-vice-chancellors-research-seminar-eldin-jasarevic-phd)
 
+🌐 *Conference*: May TBD [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## April
+
+🌐 *Conference*: April TBD [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## March
+
+🌐 *Conference*: March 18 & 19/20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## February
+
+🌐 *Conference*: February 17/18 & 19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 ## January
 
 🌐 *Conference*: January 21 & 22/23 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
