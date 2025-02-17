@@ -66,6 +66,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: February 26 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
+*Webinar*: February 20 cmbio Webinar: [MaAsLin 3 for microbiome statistics and epidemiology](https://www.linkedin.com/events/webinar-maaslin3formicrobiomest7291097714736427008/) by Curtis Huttenhower
+
 🌐 *Conference*: February 17/18 & 19 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: February 15 [BISMiS Live](https://bismis.net/bismislive.html): How an ICSP taxonomic subcommittee helps microbiologists by Prof. J Peter W Young, University of York, UK
