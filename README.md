@@ -64,6 +64,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: March 18 & 19/20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: March 6 [Novo Nordisk Foundation Science Cluster Lecture: Science Communication for Greater Research Impact](https://sciencecluster.dk/event/science-communication-for-greater-research-impact-copy/) Recordings available. 
+
 ## February
 
 *Webinar*: February 26 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
