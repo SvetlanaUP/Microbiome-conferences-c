@@ -64,6 +64,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: March 18 & 19/20 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: March 18 [2025 Kafatos Lecture by Nobel Laureate May-Britt Moser: The Power of Science: Uncovering the Algorithms of the Brain](https://www.embl.org/about/info/alumni/events/2025-kafatos-lecture/) by EMBL.
+
 *Webinar*: March 6 [Novo Nordisk Foundation Science Cluster Lecture: Science Communication for Greater Research Impact](https://sciencecluster.dk/event/science-communication-for-greater-research-impact-copy/) Recordings available. 
 
 ## February
