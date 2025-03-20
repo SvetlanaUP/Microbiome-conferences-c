@@ -34,6 +34,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [BISMiS Live](https://bismis.net/bismislive.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
 
+*Webinar*: [Microbiology Webinars from FEMS](https://academic.oup.com/fems-journals/pages/webinars)
+
 ## June
 
 *Webinar*: June 25 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
