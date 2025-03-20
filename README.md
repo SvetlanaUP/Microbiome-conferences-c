@@ -56,7 +56,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: April 30 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
-🌐 *Conference*: April TBD [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: April 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## March
 
