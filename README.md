@@ -58,6 +58,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## March
 
+*Webinar*: March 27 [FEMS Microbiology Ecology Webinar on Microbial Ecology for a Sustainable Future - Engaging the Next Generation of Researchers](https://us02web.zoom.us/webinar/register/8317301953906/WN_AGISkJLNTJCN135k2Pn5gw#/registration)
+
 *Webinar*: March 26 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
 *Webinar*: March 24 [Microbiome Research Reports webinar: Brain-Gut-Microbiota Axis: Implications for Psychiatry ](https://oaepublish.com/webreviewer/mrr.312) Ted Dinan and Fatima Pereira
