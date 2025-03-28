@@ -58,6 +58,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: April 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: April 1 [Microbiome Informatics Webinar Series: Multi-omics microbiome data analyses ](https://ctsi.osu.edu/events/microbiome-informatics-webinar-series-2) The series continues each Tuesday this spring with a 1.5 - 2 hour webinar.
+
 ## March
 
 *Webinar*: March 27 [FEMS Microbiology Ecology Webinar on Microbial Ecology for a Sustainable Future - Engaging the Next Generation of Researchers](https://us02web.zoom.us/webinar/register/8317301953906/WN_AGISkJLNTJCN135k2Pn5gw#/registration)
