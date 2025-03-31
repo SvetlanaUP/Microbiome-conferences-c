@@ -40,6 +40,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: June 25 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
+*Conference*: June 20 [One Health World Microbiome Partnership Summit](https://wmp.symposium.inrae.fr/)
+
 ## May
 
 *Webinar*: May 28 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
