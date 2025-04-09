@@ -56,6 +56,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## April
 
+*Webinar*: April 30 [ESAB WEBINAR: Digital sequence information, access and benefit sharing andopen science. Implications for microbiome and biocatalysis research](https://www.bluetools-project.eu/esab-webinar-digital-sequence-information-access-and-benefit-sharing-andopen-science-implications-for-microbiome-and-biocatalysis-research/)
+
 *Webinar*: April 30 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
 
 🌐 *Conference*: April 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
