@@ -36,6 +36,12 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [Microbiology Webinars from FEMS](https://academic.oup.com/fems-journals/pages/webinars)
 
+
+## July
+
+*Webinar*: July 7-8 [2025 MSE Summit: Pathways to Microbiome Stewardship](https://sueishaqlab.org/2025/04/11/registration-is-open-for-the-2025-mse-summit-pathways-to-microbiome-stewardship/) by the Ishaq Lab
+
+
 ## June
 
 *Webinar*: June 25 [Speaker Series 2025](https://microbesandsocialequity.org/events/speaker-series-2025/) by The Microbes and Social Equity working group.
