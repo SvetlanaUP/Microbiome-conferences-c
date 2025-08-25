@@ -36,6 +36,23 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [Microbiology Webinars from FEMS](https://academic.oup.com/fems-journals/pages/webinars)
 
+## December
+
+🌐 *Conference*: December 9/10 & 11 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## November
+
+🌐 *Conference*: November 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+
+## October
+
+🌐 *Conference*: October 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
+## September
+
+🌐 *Conference*: September 9 & 10/11 [GloMiNe "Preservation of microbial diversity” by Microbiota Vault and MVIF](https://www.microbiome-vif.org/)
+
 
 ## July
 
