@@ -49,6 +49,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: October 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Conference*: October 14-16 [Black in Micro Week 2025](https://bsky.app/profile/blackinmicro.bsky.social/post/3lxn5jbf45n26) by Black Microbiologists Association 
+
 ## September
 
 🌐 *Conference*: September 9 & 10/11 [GloMiNe "Preservation of microbial diversity” by Microbiota Vault and MVIF](https://www.microbiome-vif.org/)
