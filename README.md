@@ -55,6 +55,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: September 9 & 10/11 [GloMiNe "Preservation of microbial diversity” by Microbiota Vault and MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: September 5 [UNC Microbiome Core: First Friday Seminar](https://bsky.app/profile/microbiomeunc.bsky.social/post/3lxupnyf6ts2h)
+
 
 ## July
 
