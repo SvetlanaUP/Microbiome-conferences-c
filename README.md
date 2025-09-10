@@ -53,6 +53,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## September
 
+*Webinar*: September 25 [Unlocking human microbiome clarity with PacBio HiFi sequencing](https://programs.pacb.com/l/1652/2025-08-27/456z3j)
+
 *Webinar*: September 11 [AHMRN September 2025 Journal club](https://adelaide.zoom.us/meeting/register/PmNtQ1onTEOEDfBOE-wwlA#/registration)
 
 *Webinar*: September 11 [Harnessing agri-food system microbiomes for sustainability and human health](https://events.frontiersin.org/agrifood-system-microbiomes/newsletter-promo) by Frontiers Forum
