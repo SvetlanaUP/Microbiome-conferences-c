@@ -42,6 +42,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## November
 
+*Conference*: November 28 [AHMRN Symposium 2025: Uniting Omics: Towards a Better Understanding of the Human Microbiome](https://form.jotform.com/252152374433856)
+
 🌐 *Conference*: November 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 
