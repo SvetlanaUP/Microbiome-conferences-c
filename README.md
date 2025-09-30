@@ -21,6 +21,12 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
+## 2026
+
+## March
+
+*Conference*: March 2-4 [Microbiome Interactions in Health and Disease](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-20260302/) by Wellcome Connecting Science. Note: To promote more inclusive scientific discussions with international colleagues at our conferences, virtual delegates based in Lower and Middle-Income Countries can register for free. 
+
 
 ## 2025
 
