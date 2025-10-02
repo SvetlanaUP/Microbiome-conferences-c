@@ -55,6 +55,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## October
 
+Webinar: October 16 AHMRN September 2025 Journal club:[Bacterial taxonomic and functional changes following oral lyophilized donor fecal microbiota transplantation in patients with ulcerative colitis by Shreeya Raich ](https://adelaide.zoom.us/meeting/register/NWCF3dHtRj2LEIVDOiaaYQ#/registration)
+
 🌐 *Conference*: October 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Conference*: October 14-16 [Black in Micro Week 2025](https://bsky.app/profile/blackinmicro.bsky.social/post/3lxn5jbf45n26) by Black Microbiologists Association 
