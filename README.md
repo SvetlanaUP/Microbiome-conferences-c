@@ -55,6 +55,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## October
 
+Webinar: October 29 [SEARCHER Webinar: Antibiotic Resistance Genes Prediction](https://chalmers.zoom.us/webinar/register/WN_RRjvOKQTTFGzv24P1lZRVA#/registration)
+
 Webinar: October 27 [Advancing Microbiome Research with Next-Generation Sequencing](https://emea.illumina.com/events/webinar/2025/Advancing-Microbiome-Research-with-Next-Generation-Sequencing.html) by Illumina. Speakers: Nicola Segata, Amadou Gueye and Serena Manara
 
 Webinar: October 16 AHMRN September 2025 Journal club:[Bacterial taxonomic and functional changes following oral lyophilized donor fecal microbiota transplantation in patients with ulcerative colitis by Shreeya Raich ](https://adelaide.zoom.us/meeting/register/NWCF3dHtRj2LEIVDOiaaYQ#/registration)
