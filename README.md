@@ -44,6 +44,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## December
 
+Webinar: December 15 NFDI4Microbiota Coffee Talk	[Justine Vandendorpe:	"Access Control, Data Protection & Security in Digital Microbiology Research"](https://nfdi4microbiota.de/community/coffee_talk_series/)
+
 🌐 *Conference*: December 9/10 & 11 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## November
