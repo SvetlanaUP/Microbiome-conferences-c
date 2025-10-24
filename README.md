@@ -55,6 +55,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## October
 
+Webinar: October 27 NFDI4Microbiota Coffee Talk [Daniel Straub:“Meta-omics Analysis at a Bioinformatics Core Facility – As FAIR as Possible”](https://nfdi4microbiota.de/community/coffee_talk_series/)
+
 Webinar: October 22 [SciMom Chats](https://www.mothersinscience.com/scimomchats) by Mothers in Science.
 
 Webinar: October 29 [SEARCHER Webinar: Antibiotic Resistance Genes Prediction](https://chalmers.zoom.us/webinar/register/WN_RRjvOKQTTFGzv24P1lZRVA#/registration)
