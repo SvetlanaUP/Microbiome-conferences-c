@@ -54,6 +54,8 @@ Webinar: December 15 NFDI4Microbiota Coffee Talk	[Justine Vandendorpe:	"Access C
 
 🌐 *Conference*: November 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+Webinar: November 11 [AMR: A One Health Approach Seminar Series 2025 By CAN-AMR-Net](https://canamrnet.org/antimicrobial-resistance-a-one-health-approach-seminar-series/) Session 7: The Microbiome & AMR
+
 
 ## October
 
