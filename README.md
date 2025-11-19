@@ -44,9 +44,9 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## December
 
-Webinar: December 15 NFDI4Microbiota Coffee Talk	[Justine Vandendorpe:	"Access Control, Data Protection & Security in Digital Microbiology Research"](https://nfdi4microbiota.de/community/coffee_talk_series/)
+*Webinar*: December 15 NFDI4Microbiota Coffee Talk	[Justine Vandendorpe:	"Access Control, Data Protection & Security in Digital Microbiology Research"](https://nfdi4microbiota.de/community/coffee_talk_series/)
 
-Webinar: December 12 [Species in the global ocean microbiome comprise genomically and ecologically distinct populations](https://events.teams.microsoft.com/event/71798035-98d4-4981-940b-4ae85c2024c6@d7811cde-ecef-496c-8f91-a1786241b99c) by BIOcean5D.
+*Webinar*: December 12 [Species in the global ocean microbiome comprise genomically and ecologically distinct populations](https://events.teams.microsoft.com/event/71798035-98d4-4981-940b-4ae85c2024c6@d7811cde-ecef-496c-8f91-a1786241b99c) by BIOcean5D.
 
 *Conference*: December 12 [Gut Microbial Metabolites and Their Impact on Host Systems](https://isbscience.org/2025-isb-virtual-microbiome-symposium/) by ISB.
 
@@ -58,20 +58,20 @@ Webinar: December 12 [Species in the global ocean microbiome comprise genomicall
 
 🌐 *Conference*: November 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
-Webinar: November 11 [AMR: A One Health Approach Seminar Series 2025 By CAN-AMR-Net](https://canamrnet.org/antimicrobial-resistance-a-one-health-approach-seminar-series/) Session 7: The Microbiome & AMR
+*Webinar*: November 11 [AMR: A One Health Approach Seminar Series 2025 By CAN-AMR-Net](https://canamrnet.org/antimicrobial-resistance-a-one-health-approach-seminar-series/) Session 7: The Microbiome & AMR
 
 
 ## October
 
-Webinar: October 29 [SEARCHER Webinar: Antibiotic Resistance Genes Prediction](https://chalmers.zoom.us/webinar/register/WN_RRjvOKQTTFGzv24P1lZRVA#/registration)
+*Webinar*: October 29 [SEARCHER Webinar: Antibiotic Resistance Genes Prediction](https://chalmers.zoom.us/webinar/register/WN_RRjvOKQTTFGzv24P1lZRVA#/registration)
 
-Webinar: October 27 [Advancing Microbiome Research with Next-Generation Sequencing](https://emea.illumina.com/events/webinar/2025/Advancing-Microbiome-Research-with-Next-Generation-Sequencing.html) by Illumina. Speakers: Nicola Segata, Amadou Gueye and Serena Manara
+*Webinar*: October 27 [Advancing Microbiome Research with Next-Generation Sequencing](https://emea.illumina.com/events/webinar/2025/Advancing-Microbiome-Research-with-Next-Generation-Sequencing.html) by Illumina. Speakers: Nicola Segata, Amadou Gueye and Serena Manara
 
-Webinar: October 27 NFDI4Microbiota Coffee Talk [Daniel Straub:“Meta-omics Analysis at a Bioinformatics Core Facility – As FAIR as Possible”](https://nfdi4microbiota.de/community/coffee_talk_series/)
+*Webinar*: October 27 NFDI4Microbiota Coffee Talk [Daniel Straub:“Meta-omics Analysis at a Bioinformatics Core Facility – As FAIR as Possible”](https://nfdi4microbiota.de/community/coffee_talk_series/)
 
-Webinar: October 22 [SciMom Chats](https://www.mothersinscience.com/scimomchats) by Mothers in Science.
+*Webinar*: October 22 [SciMom Chats](https://www.mothersinscience.com/scimomchats) by Mothers in Science.
 
-Webinar: October 16 AHMRN September 2025 Journal club:[Bacterial taxonomic and functional changes following oral lyophilized donor fecal microbiota transplantation in patients with ulcerative colitis by Shreeya Raich ](https://adelaide.zoom.us/meeting/register/NWCF3dHtRj2LEIVDOiaaYQ#/registration)
+*Webinar*: October 16 AHMRN September 2025 Journal club:[Bacterial taxonomic and functional changes following oral lyophilized donor fecal microbiota transplantation in patients with ulcerative colitis by Shreeya Raich ](https://adelaide.zoom.us/meeting/register/NWCF3dHtRj2LEIVDOiaaYQ#/registration)
 
 🌐 *Conference*: October 14/15 & 16 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
