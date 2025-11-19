@@ -46,7 +46,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: December 15 NFDI4Microbiota Coffee Talk	[Justine Vandendorpe:	"Access Control, Data Protection & Security in Digital Microbiology Research"](https://nfdi4microbiota.de/community/coffee_talk_series/)
 
-*Webinar*: December 12 [Species in the global ocean microbiome comprise genomically and ecologically distinct populations](https://events.teams.microsoft.com/event/71798035-98d4-4981-940b-4ae85c2024c6@d7811cde-ecef-496c-8f91-a1786241b99c) by BIOcean5D.
+*Webinar*: December 12 [Species in the global ocean microbiome comprise genomically and ecologically distinct populations](https://events.teams.microsoft.com/event/71798035-98d4-4981-940b-4ae85c2024c6@d7811cde-ecef-496c-8f91-a1786241b99c) by Taylor Priest and BIOcean5D.
 
 *Conference*: December 12 [Gut Microbial Metabolites and Their Impact on Host Systems](https://isbscience.org/2025-isb-virtual-microbiome-symposium/) by ISB.
 
