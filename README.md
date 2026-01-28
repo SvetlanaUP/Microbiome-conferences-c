@@ -35,6 +35,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: February 9/10 & 11 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Symposium*: February 3 [BCMM Annual Symposium: Engineering Microbiomes](https://microbiome.ucsf.edu/events/bcmm-symposium)
+
 
 ## January
 
