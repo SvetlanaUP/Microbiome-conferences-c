@@ -31,6 +31,10 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## February
 
+*Webinar*: February 27 [ISCB SC RSG-Nigeria webinar: Open Source in Practice: A Microbiome Scientist's Perspective](https://luma.com/uvbsexlh) with Svetlana Ugarcina Perovic.
+
+*Webinar*: February 26 [Safe Microbiome Perturbations: Gut Microbiome and Probiotics](https://microbiologysociety.org/event/safe-microbiome-perturbations-gut-microbiome-and-probiotics.html) by the Microbiology Society.
+
 *Webinar*: February 24 Singer Instruments webinar: [The dark matter of the microbiome: how culturing the unculturable can help us solve real-world problems](https://pages.singerinstruments.com/microbiome_webinar) Lindsay Hall & James Chong
 
 *Webinar*: February 16 [FEMS Microbiology Reviews Webinar on Exploring the Molecular Aspects of Microbial Biology](https://us02web.zoom.us/webinar/register/2817683821058/WN_QrhB1LH4TI2CLiLcVRc9pQ#/registration)
