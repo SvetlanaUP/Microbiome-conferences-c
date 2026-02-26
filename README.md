@@ -27,11 +27,12 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: March 24 & 25/26 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Webinar*: March 6 [ISCB SC RSG-Nigeria webinar: Open Source in Practice: A Microbiome Scientist's Perspective](https://luma.com/uvbsexlh) with Svetlana Ugarcina Perovic.
+
 *Conference*: March 2-4 [Microbiome Interactions in Health and Disease](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-20260302/) by Wellcome Connecting Science. Note: To promote more inclusive scientific discussions with international colleagues at our conferences, virtual delegates based in Lower and Middle-Income Countries can register for free. 
 
-## February
 
-*Webinar*: February 27 [ISCB SC RSG-Nigeria webinar: Open Source in Practice: A Microbiome Scientist's Perspective](https://luma.com/uvbsexlh) with Svetlana Ugarcina Perovic.
+## February
 
 *Webinar*: February 26 [Safe Microbiome Perturbations: Gut Microbiome and Probiotics](https://microbiologysociety.org/event/safe-microbiome-perturbations-gut-microbiome-and-probiotics.html) by the Microbiology Society.
 
