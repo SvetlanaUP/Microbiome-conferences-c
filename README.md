@@ -29,6 +29,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: March 6 [ISCB SC RSG-Nigeria webinar: Open Source in Practice: A Microbiome Scientist's Perspective](https://luma.com/uvbsexlh) with Svetlana Ugarcina Perovic.
 
+*Webinar*: March 6 [AHMRN Journal Club March 2026 with Dr Laurence Luu](https://adelaide.zoom.us/meeting/register/RMfa-mYUSMWoBtdA224y2w#/registration) 
+
 *Conference*: March 2-4 [Microbiome Interactions in Health and Disease](https://coursesandconferences.wellcomeconnectingscience.org/event/microbiome-interactions-in-health-and-disease-20260302/) by Wellcome Connecting Science. Note: To promote more inclusive scientific discussions with international colleagues at our conferences, virtual delegates based in Lower and Middle-Income Countries can register for free. 
 
 
