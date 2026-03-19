@@ -27,9 +27,15 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Conference*: June 15-16 [Metals and oxygen: planetary and human homeostasis](https://royalsociety.org/science-events-and-lectures/2026/06/mophh/) by The Royal Society and National Academy of Sciences
 
+🌐 *Conference*: June 1/2 & 3 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 ## May
 
+🌐 *Conference*: May 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+
 ## April
+
+🌐 *Conference*: April 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## March
 
