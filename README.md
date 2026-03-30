@@ -35,11 +35,15 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## April
 
+*Webinar*: April 30 [Master the Microbiome Webinar Series: From Microbes to Meaningful Change](https://zymoresearch.eu/pages/from-microbes-to-meaningful-change) with Leigh A. Frame.
+
 🌐 *Conference*: April 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: April 7 [Microbiome Matters - From Observation to Intervention: Insights from the Gut Microbiome in IBD](https://us06web.zoom.us/meeting/register/krfhxHi_R1CKccis2tFIqg#/registration)
 
 ## March
+
+*Webinar*: March 31 [Master the Microbiome Webinar Series: Precision Microbiome Medicine](https://zymoresearch.eu/pages/precision-microbiome-medicine) with Jack A Gilbert.
 
 🌐 *Conference*: March 24 & 25/26 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
