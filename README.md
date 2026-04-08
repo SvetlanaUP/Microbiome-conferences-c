@@ -39,7 +39,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: April 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
-*Webinar*: April 15 Bioconductor Africa Seminar Series: [Introduction to Bioconductor by Kevin Rue‑Albrech](https://us06web.zoom.us/rest/meeting/registrant/tZMlfuGgrTkpH9RY81to-PGtJ5dzcgQCTUFw/info?tk=rlhhF7VW0qgN3yFr4hNyKBOmadSSIqMb5dhsavYXivKjMFLQBKeCP6E.2GriQbjzB5uLv1-y&ac=approved&timezone_id=Europe/Belgrade#/edit)
+*Webinar*: April 15 Bioconductor Africa Seminar Series: [Introduction to Bioconductor by Kevin Rue‑Albrecht](https://us06web.zoom.us/rest/meeting/registrant/tZMlfuGgrTkpH9RY81to-PGtJ5dzcgQCTUFw/info?tk=rlhhF7VW0qgN3yFr4hNyKBOmadSSIqMb5dhsavYXivKjMFLQBKeCP6E.2GriQbjzB5uLv1-y&ac=approved&timezone_id=Europe/Belgrade#/edit)
 
 *Webinar*: April 7 [Microbiome Matters - From Observation to Intervention: Insights from the Gut Microbiome in IBD](https://us06web.zoom.us/meeting/register/krfhxHi_R1CKccis2tFIqg#/registration)
 
