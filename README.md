@@ -37,6 +37,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: April 30 [Master the Microbiome Webinar Series: From Microbes to Meaningful Change](https://zymoresearch.eu/pages/from-microbes-to-meaningful-change) with Leigh A. Frame.
 
+*Webinar*: April 22 Asia Pacific Bioinformatics Network's webinars:[Computational Genomics for Microbial Traits](https://instats.org/seminar/computational-genomics-for-microbial-tra) by Dr. Janani Ravi. 
+
 🌐 *Conference*: April 20/21 & 22 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: April 15 Bioconductor Africa Seminar Series: [Introduction to Bioconductor by Kevin Rue‑Albrecht](https://us06web.zoom.us/rest/meeting/registrant/tZMlfuGgrTkpH9RY81to-PGtJ5dzcgQCTUFw/info?tk=rlhhF7VW0qgN3yFr4hNyKBOmadSSIqMb5dhsavYXivKjMFLQBKeCP6E.2GriQbjzB5uLv1-y&ac=approved&timezone_id=Europe/Belgrade#/edit)
