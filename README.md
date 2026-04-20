@@ -31,6 +31,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## May
 
+*Webinar*: May 13 FEMS & Biolog Webinar: [Assessing Microbial Community Function and Response To Environmental Stressors](https://us02web.zoom.us/webinar/register/9417761574604/WN_d00zoEizSTaHkLYEns8W2w#/registration)
+
 🌐 *Conference*: May 12 & 13/14 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Webinar*: May 6, 13, and 20 Bioconductor Africa seminar series session: [Orchestrating Microbiome Analysis with Bioconductor](https://us06web.zoom.us/meeting/register/H2ZQMYztRHqA9YQKPhoHNQ?_x_zm_rtaid=-kPzV-F-QUWMC6MhHbuwLg.1776411436113.5d6124afed62dee5c6a917c5de979b75&_x_zm_rhtaid=139#/registration) by Tuomas Borman.
