@@ -23,6 +23,10 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## 2026
 
+# September
+
+*Conference*: September 21-23 [Target Validation – In the Era of Genomics, Big Data, and AI](https://coursesandconferences.wellcomeconnectingscience.org/event/target-validation-in-the-era-of-genomics-big-data-and-ai-20260921/?utm_source=dotdigital&utm_medium=email&utm_campaign=targetv26-email&utm_id=targetv26&dm_i=6Y2C,3MQAM,40H892,9S18C,1,0,0,0) by Wellcome Genome Campus, UK and Virtual. Note: To promote more inclusive scientific discussions with international colleagues at our conferences, virtual delegates based in Lower and Middle-Income Countries can register for free!
+
 ## June
 
 *Conference*: June 15-16 [Metals and oxygen: planetary and human homeostasis](https://royalsociety.org/science-events-and-lectures/2026/06/mophh/) by The Royal Society and National Academy of Sciences
