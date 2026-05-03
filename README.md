@@ -31,7 +31,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: [Microbiology Webinars from FEMS](https://academic.oup.com/fems-journals/pages/webinars)
 
-*Webinar*: [Microbes and Social Equity: 2026 Speaker Series](https://microbesandsocialequity.com/events/ems-event-calendar.html?_gl=1*wz10ny*_up*MQ..*_ga*NDcwOTE2NjAuMTc3NzgzMzkxMw..*_ga_ZNMNQ3PHFW*czE3Nzc4MzM5MTIkbzEkZzAkdDE3Nzc4MzM5MTIkajYwJGwwJGgw) Virtual seminars hosted by Sue Ishaq, January – December in 2026, on the last Wednesday of every month.
+*Webinar*: [Microbes and Social Equity: 2026 Speaker Series](https://microbesandsocialequity.com/events/ems-event-calendar.html?_gl=1*wz10ny*_up*MQ..*_ga*NDcwOTE2NjAuMTc3NzgzMzkxMw..*_ga_ZNMNQ3PHFW*czE3Nzc4MzM5MTIkbzEkZzAkdDE3Nzc4MzM5MTIkajYwJGwwJGgw) 
 
 # September
 
