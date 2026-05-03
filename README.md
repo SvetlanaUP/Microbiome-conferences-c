@@ -23,6 +23,16 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## 2026
 
+# Regular
+
+🌐 *Conference*: [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/) Recordings available [here](https://www.youtube.com/channel/UCJ345jOp6hOnzP0Ja2-hw6A/featured).
+
+*Webinar*: [BISMiS Live](https://bismis.net/bismislive.html) Recordings available [here](https://www.youtube.com/channel/UCScYG-RicXucp6x9vHTja_Q).
+
+*Webinar*: [Microbiology Webinars from FEMS](https://academic.oup.com/fems-journals/pages/webinars)
+
+*Webinar*: [Microbes and Social Equity: 2026 Speaker Series](https://microbesandsocialequity.com/events/ems-event-calendar.html?_gl=1*wz10ny*_up*MQ..*_ga*NDcwOTE2NjAuMTc3NzgzMzkxMw..*_ga_ZNMNQ3PHFW*czE3Nzc4MzM5MTIkbzEkZzAkdDE3Nzc4MzM5MTIkajYwJGwwJGgw) Virtual seminars hosted by Sue Ishaq, January – December in 2026, on the last Wednesday of every month.
+
 # September
 
 *Conference*: September 21-23 [Target Validation – In the Era of Genomics, Big Data, and AI](https://coursesandconferences.wellcomeconnectingscience.org/event/target-validation-in-the-era-of-genomics-big-data-and-ai-20260921/?utm_source=dotdigital&utm_medium=email&utm_campaign=targetv26-email&utm_id=targetv26&dm_i=6Y2C,3MQAM,40H892,9S18C,1,0,0,0) by Wellcome Genome Campus, UK and Virtual. Note: To promote more inclusive scientific discussions with international colleagues at our conferences, virtual delegates based in Lower and Middle-Income Countries can register for free!
