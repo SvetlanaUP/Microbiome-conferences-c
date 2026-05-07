@@ -45,7 +45,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## May
 
-*Conference*: May 18 (Harvard Chan Microbiome in Public Health Center (HCMPH) symposium)[https://hsph.harvard.edu/research/microbiome/hcmph-symposium/]
+*Conference*: May 18 [Harvard Chan Microbiome in Public Health Center (HCMPH) symposium](https://hsph.harvard.edu/research/microbiome/hcmph-symposium/)
 
 *Webinar*: May 13 FEMS & Biolog Webinar: [Assessing Microbial Community Function and Response To Environmental Stressors](https://us02web.zoom.us/webinar/register/9417761574604/WN_d00zoEizSTaHkLYEns8W2w#/registration)
 
