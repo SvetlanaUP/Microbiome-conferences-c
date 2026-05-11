@@ -45,6 +45,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## May
 
+*Webinar*: May 25 [AHMRN Journal Club with Dr Shyam Prakaash Bhagavata Srinivasan](https://unsw.zoom.us/meeting/register/w0PjBIGxQqmMUGlo5hmQEg#/registration) a discussion on the impact of cafeteria diet on weight gain and gut microbiota.
+
 *Conference*: May 19 [miGut-Health symposium: Diet, Stress and Lifestyle as Risk Factors in IBD](https://www.migut-health.eu/news/migut-health-symposium-in-cremona-to-explore-diet-stress-and-lifestyle-as-risk-factors-in-ibd)
 
 *Conference*: May 18 [Harvard Chan Microbiome in Public Health Center (HCMPH) symposium](https://hsph.harvard.edu/research/microbiome/hcmph-symposium/)
