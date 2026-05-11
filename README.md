@@ -39,6 +39,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## June
 
+*Webinar*: June 25 [AHMRN webinar: Machine Learning in Microbiome Research] (TBD) Speakers: Dr Xiaotao Jiang (UNSW) and Chaoran Yang (Monash University).
+
 *Conference*: June 15-16 [Metals and oxygen: planetary and human homeostasis](https://royalsociety.org/science-events-and-lectures/2026/06/mophh/) by The Royal Society and National Academy of Sciences
 
 🌐 *Conference*: June 1/2 & 3 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
