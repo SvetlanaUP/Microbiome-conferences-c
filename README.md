@@ -47,6 +47,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## May
 
+*Workshop*: May 27-28 [Unlocking nf-core: customising workflows for your research](https://www.eventbrite.com.au/e/workshop-unlocking-nf-core-customising-workflows-for-your-research-tickets-1984011655269?aff=oddtdtcreator) by Australian BioCommons.
+
 *Webinar*: May 25 [AHMRN Journal Club with Dr Shyam Prakaash Bhagavata Srinivasan](https://unsw.zoom.us/meeting/register/w0PjBIGxQqmMUGlo5hmQEg#/registration) a discussion on the impact of cafeteria diet on weight gain and gut microbiota.
 
 *Conference*: May 19 [miGut-Health symposium: Diet, Stress and Lifestyle as Risk Factors in IBD](https://www.migut-health.eu/news/migut-health-symposium-in-cremona-to-explore-diet-stress-and-lifestyle-as-risk-factors-in-ibd)
