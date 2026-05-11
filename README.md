@@ -43,6 +43,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Conference*: June 15-16 [Metals and oxygen: planetary and human homeostasis](https://royalsociety.org/science-events-and-lectures/2026/06/mophh/) by The Royal Society and National Academy of Sciences
 
+*Webinar*: June 2 NCCR Microbiomes seminar: [The human gut archaeome: an overlooked microbial domain with emerging links to colorectal cancer](https://www.linkedin.com/posts/microbiomeresearch-archaeome-gutmicrobiome-share-7458191874915250177-eb17) by Christine Moissl-Eichinger.
+
 🌐 *Conference*: June 1/2 & 3 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 ## May
