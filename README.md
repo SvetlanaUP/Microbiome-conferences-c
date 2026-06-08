@@ -41,6 +41,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: June 25 [AHMRN webinar: Machine Learning in Microbiome Research] (TBD) Speakers: Dr Xiaotao Jiang (UNSW) and Chaoran Yang (Monash University).
 
+*Webinar*: June 25 [Q&A: the UK Gut-Immune-Brain Axis (GIBA) Network+ Microbiome-Diet video series](https://www.linkedin.com/posts/alexandre-almeida-58a229a9_microbiome-diet-series-dietary-assessment-share-7469716747386769408-YZwp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZvE_8BdyF8MgvoD0eWoko6f7WoGeZdE1g)
+
 *Conference*: June 15-16 [Metals and oxygen: planetary and human homeostasis](https://royalsociety.org/science-events-and-lectures/2026/06/mophh/) by The Royal Society and National Academy of Sciences
 
 *Webinar*: June 2 NCCR Microbiomes seminar: [The human gut archaeome: an overlooked microbial domain with emerging links to colorectal cancer](https://www.linkedin.com/posts/microbiomeresearch-archaeome-gutmicrobiome-share-7458191874915250177-eb17) by Christine Moissl-Eichinger.
