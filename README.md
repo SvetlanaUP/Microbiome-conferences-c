@@ -41,11 +41,11 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Webinar*: June 25 [AHMRN webinar: Machine Learning in Microbiome Research](https://monash.zoom.us/webinar/register/WN_FYwpa2tjR2qms1B_M52OUg#/registration) Speakers: Dr Xiaotao Jiang (UNSW) and Chaoran Yang (Monash University).
 
+*Webinar*: June 25 [Q&A: the UK Gut-Immune-Brain Axis (GIBA) Network+ Microbiome-Diet video series](https://www.linkedin.com/posts/alexandre-almeida-58a229a9_microbiome-diet-series-dietary-assessment-share-7469716747386769408-YZwp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZvE_8BdyF8MgvoD0eWoko6f7WoGeZdE1g)
+
 *Webinar*: June 24 [Gut Reactions: The Molecular Science of Microbial Communication](https://www.acs.org/acs-webinars/library/microbial-communication.html?utm_source=axial&utm_medium=referral&utm_campaign=IC001_ST0001R_T007969_biomed_0526_NPQ_Microbiome_Webinar_Axial&src=IC001_ST0001R_T007969_biomed_0526_NPQ_Microbiome_Webinar_Axial) by the American Chemical Society.
 
-This webinar, organised by the American Chemical Society
-
-*Webinar*: June 25 [Q&A: the UK Gut-Immune-Brain Axis (GIBA) Network+ Microbiome-Diet video series](https://www.linkedin.com/posts/alexandre-almeida-58a229a9_microbiome-diet-series-dietary-assessment-share-7469716747386769408-YZwp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZvE_8BdyF8MgvoD0eWoko6f7WoGeZdE1g)
+*Webinar*: June 23 [Microbiome Analysis Community Meetings](https://www.biocommons.org.au/events/microbiome-meeting) Australian BioCommons.
 
 *Conference*: June 15-16 [Metals and oxygen: planetary and human homeostasis](https://royalsociety.org/science-events-and-lectures/2026/06/mophh/) by The Royal Society and National Academy of Sciences
 
