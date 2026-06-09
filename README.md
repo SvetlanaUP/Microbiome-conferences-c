@@ -39,7 +39,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 ## June
 
-*Webinar*: June 25 [AHMRN webinar: Machine Learning in Microbiome Research] (TBD) Speakers: Dr Xiaotao Jiang (UNSW) and Chaoran Yang (Monash University).
+*Webinar*: June 25 [AHMRN webinar: Machine Learning in Microbiome Research](https://monash.zoom.us/webinar/register/WN_FYwpa2tjR2qms1B_M52OUg#/registration) Speakers: Dr Xiaotao Jiang (UNSW) and Chaoran Yang (Monash University).
 
 *Webinar*: June 25 [Q&A: the UK Gut-Immune-Brain Axis (GIBA) Network+ Microbiome-Diet video series](https://www.linkedin.com/posts/alexandre-almeida-58a229a9_microbiome-diet-series-dietary-assessment-share-7469716747386769408-YZwp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZvE_8BdyF8MgvoD0eWoko6f7WoGeZdE1g)
 
