@@ -35,7 +35,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 # December
 
-🌐 *Conference*: 15/16 & 17 December 2026 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: 15/16 & 17 December [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 *Conference*: December 3 [The Human Microbiome Across Biological Systems: Emerging Discoveries and Translational Opportunities](https://form.jotform.com/262077365012856) by the Australasian Human Microbiome Research Network.
 
