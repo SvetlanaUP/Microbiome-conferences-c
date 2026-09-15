@@ -50,6 +50,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 # September
 
+*Webinar*: September 29 [Gut Health from Science to Shelf](https://pages.bridge2food.com/register-now-ecosystem-open-session) by the Healthferm Network.
+
 *Conference*: September 21-23 [Target Validation – In the Era of Genomics, Big Data, and AI](https://coursesandconferences.wellcomeconnectingscience.org/event/target-validation-in-the-era-of-genomics-big-data-and-ai-20260921/?utm_source=dotdigital&utm_medium=email&utm_campaign=targetv26-email&utm_id=targetv26&dm_i=6Y2C,3MQAM,40H892,9S18C,1,0,0,0) by Wellcome Genome Campus, UK and Virtual. Note: To promote more inclusive scientific discussions with international colleagues at our conferences, virtual delegates based in Lower and Middle-Income Countries can register for free!
 
 *Conference*: September 21 / 5th African Microbiome Day [African Microbiomes in Action: From Multi-omics Data to Impactful Solutions](https://h3africa.org/index.php/5th-african-microbiome-day/) by H3Africa.
