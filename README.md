@@ -47,6 +47,7 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: 13 & 14/15 October [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+*Symposium*: October 14 [AI and Bioinformatics for Precision Health and Medicine](https://medicine.nus.edu.sg/bch/insyb2026/) by the Asia-Pacific Bioinformatics Network.
 
 # September
 
