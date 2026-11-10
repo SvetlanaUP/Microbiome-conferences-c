@@ -21,6 +21,12 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 👏 KUDOS to all organizers and speakers of virtual events from 2020 up until now!
 
+## 2027
+
+# January
+
+*Symposium*: January 14 [Gut–X Axis Interactions Symposium](https://www.eventbrite.com/e/gutx-axis-interactions-symposium-tickets-2002575310662) by UCSF Benioff Center for Microbiome Medicine.
+
 ## 2026
 
 # Regular
