@@ -47,11 +47,11 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 *Conference*: December 3 [The Human Microbiome Across Biological Systems: Emerging Discoveries and Translational Opportunities](https://form.jotform.com/262077365012856) by the Australasian Human Microbiome Research Network.
 
-*Conference*: December 2-4 [Genome Informatics] by Wellcome Genome Campus.
+*Conference*: December 2-4 [Genome Informatics](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20261202/) by Wellcome Genome Campus.
 
 # November
 
-🌐 *Conference*: TBD [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
+🌐 *Conference*: November 24 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
 # October
 
