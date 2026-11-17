@@ -53,6 +53,8 @@ and I wrote about the roles of [Twitter in my academic life](http://big-data-bio
 
 🌐 *Conference*: November 24 [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
 
+Symposium: November 18 [2026 Pride in Microbiology symposium](https://docs.google.com/forms/d/e/1FAIpQLSdu9Z5HWereMgSHnIr5fHHn8W-df0fc0iLUiHVstOar-6s4wA/viewform) Program: https://bsky.app/profile/prideinmicro.bsky.social/post/3n27ybqhxek2s
+
 # October
 
 🌐 *Conference*: 13 & 14/15 October [Microbiome Virtual International Conference #MVIF](https://www.microbiome-vif.org/)
